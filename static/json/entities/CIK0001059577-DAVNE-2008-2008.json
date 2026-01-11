@@ -1,0 +1,151 @@
+{
+  "cik": "CIK0001059577",
+  "ticker": "DAVNE",
+  "company": "Davi Skin Inc.",
+  "period": {
+    "start": "2008-11-21",
+    "end": "2008-12-18"
+  },
+  "exchange": "OTCBB",
+  "metrics": {
+    "peakPrice": 0.003,
+    "peakDate": "2008-11-21",
+    "lowPrice": 0.002,
+    "lowDate": "2008-12-10",
+    "avgPrice": 0.002444444444444445,
+    "highestVolumeDay": "2008-12-18",
+    "highestVolumeAmount": 200000,
+    "highestDollarVolumeDay": "2008-12-18",
+    "highestDollarVolumeAmount": 600,
+    "totalVolume": 244891,
+    "totalDollarVolume": 714.537,
+    "tradingDays": 9,
+    "firstTradeDate": "2008-11-21",
+    "lastTradeDate": "2008-12-18",
+    "priceChange": 0,
+    "priceChangePercent": 0
+  },
+  "dailyData": [
+    {
+      "date": "2008-11-21",
+      "open": 0.003,
+      "high": 0.003,
+      "low": 0.003,
+      "close": 0.003,
+      "volume": 0,
+      "dollarVolume": 0,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-11-25",
+      "open": 0.003,
+      "high": 0.003,
+      "low": 0.003,
+      "close": 0.003,
+      "volume": 23555,
+      "dollarVolume": 70.665,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-11-28",
+      "open": 0.003,
+      "high": 0.003,
+      "low": 0.003,
+      "close": 0.003,
+      "volume": 1200,
+      "dollarVolume": 3.6,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-12-10",
+      "open": 0.002,
+      "high": 0.002,
+      "low": 0.002,
+      "close": 0.002,
+      "volume": 5000,
+      "dollarVolume": 10,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-12-11",
+      "open": 0.002,
+      "high": 0.002,
+      "low": 0.002,
+      "close": 0.002,
+      "volume": 4000,
+      "dollarVolume": 8,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-12-12",
+      "open": 0.002,
+      "high": 0.002,
+      "low": 0.002,
+      "close": 0.002,
+      "volume": 3636,
+      "dollarVolume": 7.272,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-12-15",
+      "open": 0.002,
+      "high": 0.002,
+      "low": 0.002,
+      "close": 0.002,
+      "volume": 5000,
+      "dollarVolume": 10,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-12-16",
+      "open": 0.002,
+      "high": 0.002,
+      "low": 0.002,
+      "close": 0.002,
+      "volume": 2500,
+      "dollarVolume": 5,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-12-18",
+      "open": 0.003,
+      "high": 0.003,
+      "low": 0.003,
+      "close": 0.003,
+      "volume": 200000,
+      "dollarVolume": 600,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    }
+  ],
+  "sources": [
+    "local-cache"
+  ],
+  "generatedAt": "2026-01-11T00:09:45.832Z"
+}

@@ -1,0 +1,535 @@
+{
+  "cik": "CIK0001507718",
+  "company": "Cubed, Inc.",
+  "filings": [
+    {
+      "accessionNumber": "9999999997-18-006755",
+      "filingDate": "2018-06-20",
+      "form": "REVOKED",
+      "description": "filename1.pdf",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/999999999718006755/filename1.pdf",
+      "size": 118654
+    },
+    {
+      "accessionNumber": "0001393905-14-000703",
+      "filingDate": "2014-12-16",
+      "form": "8-K/A",
+      "description": "cubed_8k.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000139390514000703/cubed_8k.htm",
+      "size": 20502
+    },
+    {
+      "accessionNumber": "0001393905-14-000702",
+      "filingDate": "2014-12-16",
+      "form": "8-K",
+      "description": "cubed_8k.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000139390514000702/cubed_8k.htm",
+      "size": 38525
+    },
+    {
+      "accessionNumber": "0001393905-14-000660",
+      "filingDate": "2014-11-21",
+      "form": "8-K",
+      "description": "cubed_8k.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000139390514000660/cubed_8k.htm",
+      "size": 33103
+    },
+    {
+      "accessionNumber": "0001614671-14-000002",
+      "filingDate": "2014-11-21",
+      "form": "3",
+      "description": "xslF345X02/primary_doc.xml",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000161467114000002/xslF345X02/primary_doc.xml",
+      "size": 3377
+    },
+    {
+      "accessionNumber": "0001393905-14-000650",
+      "filingDate": "2014-11-19",
+      "form": "8-K",
+      "description": "cubed_8k.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000139390514000650/cubed_8k.htm",
+      "size": 19136
+    },
+    {
+      "accessionNumber": "0001393905-14-000646",
+      "filingDate": "2014-11-17",
+      "form": "8-K",
+      "description": "cubed_8k.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000139390514000646/cubed_8k.htm",
+      "size": 39051
+    },
+    {
+      "accessionNumber": "0001393905-14-000604",
+      "filingDate": "2014-11-13",
+      "form": "8-K",
+      "description": "cubed_8k.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000139390514000604/cubed_8k.htm",
+      "size": 67789
+    },
+    {
+      "accessionNumber": "0001393905-14-000569",
+      "filingDate": "2014-10-23",
+      "form": "8-K",
+      "description": "cubed_8k.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000139390514000569/cubed_8k.htm",
+      "size": 18271
+    },
+    {
+      "accessionNumber": "0001393905-14-000564",
+      "filingDate": "2014-10-20",
+      "form": "10-Q",
+      "description": "cubed_10q.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000139390514000564/cubed_10q.htm",
+      "size": 1558131
+    },
+    {
+      "accessionNumber": "0001393905-14-000558",
+      "filingDate": "2014-10-15",
+      "form": "NT 10-Q",
+      "description": "cubed_nt10q.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000139390514000558/cubed_nt10q.htm",
+      "size": 19090
+    },
+    {
+      "accessionNumber": "0001393905-14-000557",
+      "filingDate": "2014-10-14",
+      "form": "8-K",
+      "description": "cubed_8k.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000139390514000557/cubed_8k.htm",
+      "size": 107724
+    },
+    {
+      "accessionNumber": "0001077048-14-000212",
+      "filingDate": "2014-09-12",
+      "form": "10-Q",
+      "description": "cprt.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000107704814000212/cprt.htm",
+      "size": 1624432
+    },
+    {
+      "accessionNumber": "0001393905-14-000444",
+      "filingDate": "2014-08-08",
+      "form": "8-K",
+      "description": "cubed_8k.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000139390514000444/cubed_8k.htm",
+      "size": 31392
+    },
+    {
+      "accessionNumber": "0001255294-14-000713",
+      "filingDate": "2014-07-15",
+      "form": "8-K",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529414000713/mainbody.htm",
+      "size": 14187
+    },
+    {
+      "accessionNumber": "0001255294-14-000689",
+      "filingDate": "2014-07-15",
+      "form": "NT 10-Q",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529414000689/mainbody.htm",
+      "size": 18200
+    },
+    {
+      "accessionNumber": "0001255294-14-000685",
+      "filingDate": "2014-07-11",
+      "form": "S-8",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529414000685/mainbody.htm",
+      "size": 113535
+    },
+    {
+      "accessionNumber": "0001255294-14-000670",
+      "filingDate": "2014-07-08",
+      "form": "3",
+      "description": "xslF345X02/mainbody.xml",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529414000670/xslF345X02/mainbody.xml",
+      "size": 3451
+    },
+    {
+      "accessionNumber": "0001255294-14-000668",
+      "filingDate": "2014-07-07",
+      "form": "SC 13G",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529414000668/mainbody.htm",
+      "size": 25501
+    },
+    {
+      "accessionNumber": "0001255294-14-000666",
+      "filingDate": "2014-07-07",
+      "form": "SC 13G",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529414000666/mainbody.htm",
+      "size": 26273
+    },
+    {
+      "accessionNumber": "0001255294-14-000663",
+      "filingDate": "2014-07-03",
+      "form": "SC 13D",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529414000663/mainbody.htm",
+      "size": 44892
+    },
+    {
+      "accessionNumber": "0001255294-14-000661",
+      "filingDate": "2014-07-03",
+      "form": "3",
+      "description": "xslF345X02/mainbody.xml",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529414000661/xslF345X02/mainbody.xml",
+      "size": 3439
+    },
+    {
+      "accessionNumber": "0001255294-14-000659",
+      "filingDate": "2014-07-03",
+      "form": "SC 13D",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529414000659/mainbody.htm",
+      "size": 45024
+    },
+    {
+      "accessionNumber": "0001255294-14-000657",
+      "filingDate": "2014-07-03",
+      "form": "3",
+      "description": "xslF345X02/mainbody.xml",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529414000657/xslF345X02/mainbody.xml",
+      "size": 3439
+    },
+    {
+      "accessionNumber": "0001255294-14-000648",
+      "filingDate": "2014-07-03",
+      "form": "3",
+      "description": "xslF345X02/mainbody.xml",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529414000648/xslF345X02/mainbody.xml",
+      "size": 4365
+    },
+    {
+      "accessionNumber": "0001255294-14-000644",
+      "filingDate": "2014-07-02",
+      "form": "8-K",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529414000644/mainbody.htm",
+      "size": 17350
+    },
+    {
+      "accessionNumber": "0001255294-14-000640",
+      "filingDate": "2014-07-01",
+      "form": "8-A12G",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529414000640/mainbody.htm",
+      "size": 18910
+    },
+    {
+      "accessionNumber": "0001255294-14-000617",
+      "filingDate": "2014-06-23",
+      "form": "D/A",
+      "description": "xslFormDX01/primary_doc.xml",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529414000617/xslFormDX01/primary_doc.xml",
+      "size": 7222
+    },
+    {
+      "accessionNumber": "0001255294-14-000615",
+      "filingDate": "2014-06-23",
+      "form": "8-K",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529414000615/mainbody.htm",
+      "size": 12258
+    },
+    {
+      "accessionNumber": "0001255294-14-000550",
+      "filingDate": "2014-06-06",
+      "form": "8-K",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529414000550/mainbody.htm",
+      "size": 91357
+    },
+    {
+      "accessionNumber": "0001255294-14-000524",
+      "filingDate": "2014-05-29",
+      "form": "8-K",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529414000524/mainbody.htm",
+      "size": 90809
+    },
+    {
+      "accessionNumber": "0001255294-14-000510",
+      "filingDate": "2014-05-27",
+      "form": "8-K",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529414000510/mainbody.htm",
+      "size": 168551
+    },
+    {
+      "accessionNumber": "0001255294-14-000481",
+      "filingDate": "2014-05-21",
+      "form": "D/A",
+      "description": "xslFormDX01/primary_doc.xml",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529414000481/xslFormDX01/primary_doc.xml",
+      "size": 7222
+    },
+    {
+      "accessionNumber": "0001255294-14-000452",
+      "filingDate": "2014-05-16",
+      "form": "8-K",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529414000452/mainbody.htm",
+      "size": 12498
+    },
+    {
+      "accessionNumber": "0001255294-14-000392",
+      "filingDate": "2014-05-07",
+      "form": "8-K",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529414000392/mainbody.htm",
+      "size": 258907
+    },
+    {
+      "accessionNumber": "0001255294-14-000366",
+      "filingDate": "2014-04-24",
+      "form": "D",
+      "description": "xslFormDX01/primary_doc.xml",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529414000366/xslFormDX01/primary_doc.xml",
+      "size": 7130
+    },
+    {
+      "accessionNumber": "0001255294-14-000357",
+      "filingDate": "2014-04-21",
+      "form": "10-Q",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529414000357/mainbody.htm",
+      "size": 1553134
+    },
+    {
+      "accessionNumber": "0001255294-14-000307",
+      "filingDate": "2014-04-14",
+      "form": "NT 10-Q",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529414000307/mainbody.htm",
+      "size": 18103
+    },
+    {
+      "accessionNumber": "0001255294-14-000237",
+      "filingDate": "2014-03-27",
+      "form": "8-K",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529414000237/mainbody.htm",
+      "size": 16049
+    },
+    {
+      "accessionNumber": "0001255294-14-000229",
+      "filingDate": "2014-03-26",
+      "form": "8-K",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529414000229/mainbody.htm",
+      "size": 36609
+    },
+    {
+      "accessionNumber": "0001255294-14-000221",
+      "filingDate": "2014-03-24",
+      "form": "8-K",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529414000221/mainbody.htm",
+      "size": 97090
+    },
+    {
+      "accessionNumber": "0001255294-14-000186",
+      "filingDate": "2014-03-14",
+      "form": "8-K",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529414000186/mainbody.htm",
+      "size": 32552
+    },
+    {
+      "accessionNumber": "0001255294-14-000139",
+      "filingDate": "2014-03-06",
+      "form": "8-K",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529414000139/mainbody.htm",
+      "size": 15700
+    },
+    {
+      "accessionNumber": "0001507718-14-000002",
+      "filingDate": "2014-02-12",
+      "form": "10-K",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000150771814000002/mainbody.htm",
+      "size": 1870199
+    },
+    {
+      "accessionNumber": "0001255294-13-000823",
+      "filingDate": "2013-10-21",
+      "form": "10-Q",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529413000823/mainbody.htm",
+      "size": 1182853
+    },
+    {
+      "accessionNumber": "0001255294-13-000805",
+      "filingDate": "2013-10-15",
+      "form": "NT 10-Q",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529413000805/mainbody.htm",
+      "size": 18073
+    },
+    {
+      "accessionNumber": "0001507718-13-000002",
+      "filingDate": "2013-07-15",
+      "form": "10-Q",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000150771813000002/mainbody.htm",
+      "size": 1584330
+    },
+    {
+      "accessionNumber": "0001255294-13-000279",
+      "filingDate": "2013-04-22",
+      "form": "10-Q",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529413000279/mainbody.htm",
+      "size": 1112159
+    },
+    {
+      "accessionNumber": "0001255294-13-000247",
+      "filingDate": "2013-04-15",
+      "form": "NT 10-Q",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529413000247/mainbody.htm",
+      "size": 18388
+    },
+    {
+      "accessionNumber": "0001255294-13-000177",
+      "filingDate": "2013-03-08",
+      "form": "10-K",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529413000177/mainbody.htm",
+      "size": 1651184
+    },
+    {
+      "accessionNumber": "0001255294-13-000164",
+      "filingDate": "2013-02-28",
+      "form": "NT 10-K",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529413000164/mainbody.htm",
+      "size": 18417
+    },
+    {
+      "accessionNumber": "0001507718-12-000011",
+      "filingDate": "2012-10-22",
+      "form": "10-Q",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000150771812000011/mainbody.htm",
+      "size": 1102182
+    },
+    {
+      "accessionNumber": "0001255294-12-000714",
+      "filingDate": "2012-10-15",
+      "form": "NT 10-Q",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529412000714/mainbody.htm",
+      "size": 17027
+    },
+    {
+      "accessionNumber": "0001507718-12-000008",
+      "filingDate": "2012-07-12",
+      "form": "10-Q",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000150771812000008/mainbody.htm",
+      "size": 783915
+    },
+    {
+      "accessionNumber": "0001507718-12-000006",
+      "filingDate": "2012-04-12",
+      "form": "10-Q",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000150771812000006/mainbody.htm",
+      "size": 791651
+    },
+    {
+      "accessionNumber": "0001507718-12-000004",
+      "filingDate": "2012-02-28",
+      "form": "10-K",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000150771812000004/mainbody.htm",
+      "size": 1364292
+    },
+    {
+      "accessionNumber": "0001255294-11-000609",
+      "filingDate": "2011-10-17",
+      "form": "10-Q",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529411000609/mainbody.htm",
+      "size": 600673
+    },
+    {
+      "accessionNumber": "0001507718-11-000112",
+      "filingDate": "2011-07-15",
+      "form": "10-Q",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000150771811000112/mainbody.htm",
+      "size": 334855
+    },
+    {
+      "accessionNumber": "0001507718-11-000083",
+      "filingDate": "2011-04-26",
+      "form": "8-K",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000150771811000083/mainbody.htm",
+      "size": 17464
+    },
+    {
+      "accessionNumber": "0001255294-11-000233",
+      "filingDate": "2011-04-14",
+      "form": "10-Q",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000125529411000233/mainbody.htm",
+      "size": 244951
+    },
+    {
+      "accessionNumber": "0001507718-11-000072",
+      "filingDate": "2011-03-01",
+      "form": "424B3",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000150771811000072/mainbody.htm",
+      "size": 1279947
+    },
+    {
+      "accessionNumber": "9999999995-11-000559",
+      "filingDate": "2011-02-28",
+      "form": "EFFECT",
+      "description": "xslEFFECTX01/primary_doc.xml",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/999999999511000559/xslEFFECTX01/primary_doc.xml",
+      "size": 2080
+    },
+    {
+      "accessionNumber": "0001507718-11-000070",
+      "filingDate": "2011-02-23",
+      "form": "CORRESP",
+      "description": "filename1.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000150771811000070/filename1.htm",
+      "size": 8667
+    },
+    {
+      "accessionNumber": "0001507718-11-000050",
+      "filingDate": "2011-01-27",
+      "form": "S-1/A",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000150771811000050/mainbody.htm",
+      "size": 1586986
+    },
+    {
+      "accessionNumber": "0000000000-11-003809",
+      "filingDate": "2011-01-19",
+      "form": "UPLOAD",
+      "description": "filename1.pdf",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000000000011003809/filename1.pdf",
+      "size": 69745
+    },
+    {
+      "accessionNumber": "0001507718-10-000003",
+      "filingDate": "2010-12-23",
+      "form": "S-1",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001507718/000150771810000003/mainbody.htm",
+      "size": 1470904
+    }
+  ],
+  "generatedAt": "2026-01-11T00:09:45.837Z"
+}

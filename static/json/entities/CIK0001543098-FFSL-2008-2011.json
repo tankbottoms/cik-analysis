@@ -1,0 +1,1633 @@
+{
+  "cik": "CIK0001543098",
+  "ticker": "FFSL",
+  "company": "CodeSmart Holdings, Inc.",
+  "period": {
+    "start": "2008-01-08",
+    "end": "2011-12-22"
+  },
+  "exchange": "OTCBB",
+  "metrics": {
+    "peakPrice": 18.25,
+    "peakDate": "2008-01-08",
+    "lowPrice": 4,
+    "lowDate": "2011-12-22",
+    "avgPrice": 10.737479674796743,
+    "highestVolumeDay": "2008-07-10",
+    "highestVolumeAmount": 54943,
+    "highestDollarVolumeDay": "2008-07-10",
+    "highestDollarVolumeAmount": 912053.8,
+    "totalVolume": 295964,
+    "totalDollarVolume": 3952717.3899999997,
+    "tradingDays": 123,
+    "firstTradeDate": "2008-01-08",
+    "lastTradeDate": "2011-12-22",
+    "priceChange": -14.25,
+    "priceChangePercent": -78.08219178082192
+  },
+  "dailyData": [
+    {
+      "date": "2008-01-08",
+      "open": 18.25,
+      "high": 18.25,
+      "low": 18.25,
+      "close": 18.25,
+      "volume": 200,
+      "dollarVolume": 3650,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-01-09",
+      "open": 17.85,
+      "high": 17.85,
+      "low": 17.85,
+      "close": 17.85,
+      "volume": 400,
+      "dollarVolume": 7140.000000000001,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-01-14",
+      "open": 17.55,
+      "high": 17.75,
+      "low": 17.55,
+      "close": 17.75,
+      "volume": 3600,
+      "dollarVolume": 63900,
+      "tradeCount": 4,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-01-16",
+      "open": 17.7,
+      "high": 17.7,
+      "low": 17.7,
+      "close": 17.7,
+      "volume": 200,
+      "dollarVolume": 3540,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-01-23",
+      "open": 17.75,
+      "high": 17.75,
+      "low": 17.75,
+      "close": 17.75,
+      "volume": 600,
+      "dollarVolume": 10650,
+      "tradeCount": 2,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-01-25",
+      "open": 17.5,
+      "high": 17.5,
+      "low": 17.5,
+      "close": 17.5,
+      "volume": 2000,
+      "dollarVolume": 35000,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-01-28",
+      "open": 17.7,
+      "high": 17.95,
+      "low": 17.68,
+      "close": 17.92,
+      "volume": 28812,
+      "dollarVolume": 516311.04000000004,
+      "tradeCount": 5,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-02-19",
+      "open": 18,
+      "high": 18,
+      "low": 18,
+      "close": 18,
+      "volume": 2600,
+      "dollarVolume": 46800,
+      "tradeCount": 2,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-02-26",
+      "open": 17.85,
+      "high": 17.95,
+      "low": 17.85,
+      "close": 17.95,
+      "volume": 1640,
+      "dollarVolume": 29438,
+      "tradeCount": 2,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-03-07",
+      "open": 17.75,
+      "high": 17.75,
+      "low": 17.75,
+      "close": 17.75,
+      "volume": 200,
+      "dollarVolume": 3550,
+      "tradeCount": 2,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-03-10",
+      "open": 17.85,
+      "high": 17.85,
+      "low": 17.85,
+      "close": 17.85,
+      "volume": 0,
+      "dollarVolume": 0,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-03-19",
+      "open": 17.5,
+      "high": 17.5,
+      "low": 17.5,
+      "close": 17.5,
+      "volume": 0,
+      "dollarVolume": 0,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-04-23",
+      "open": 18,
+      "high": 18,
+      "low": 18,
+      "close": 18,
+      "volume": 200,
+      "dollarVolume": 3600,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-06-02",
+      "open": 18.2,
+      "high": 18.2,
+      "low": 18.2,
+      "close": 18.2,
+      "volume": 200,
+      "dollarVolume": 3640,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-06-20",
+      "open": 17.05,
+      "high": 17.05,
+      "low": 17.05,
+      "close": 17.05,
+      "volume": 600,
+      "dollarVolume": 10230,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-06-25",
+      "open": 16.6,
+      "high": 16.6,
+      "low": 16.6,
+      "close": 16.6,
+      "volume": 200,
+      "dollarVolume": 3320.0000000000005,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-07-10",
+      "open": 16.6,
+      "high": 16.6,
+      "low": 16.6,
+      "close": 16.6,
+      "volume": 54943,
+      "dollarVolume": 912053.8,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-07-14",
+      "open": 17.5,
+      "high": 17.5,
+      "low": 17.5,
+      "close": 17.5,
+      "volume": 500,
+      "dollarVolume": 8750,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-07-16",
+      "open": 17.25,
+      "high": 17.25,
+      "low": 17.25,
+      "close": 17.25,
+      "volume": 600,
+      "dollarVolume": 10350,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-07-18",
+      "open": 17,
+      "high": 17,
+      "low": 16.95,
+      "close": 16.95,
+      "volume": 2348,
+      "dollarVolume": 39798.6,
+      "tradeCount": 3,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-07-22",
+      "open": 16.8,
+      "high": 16.8,
+      "low": 16.8,
+      "close": 16.8,
+      "volume": 200,
+      "dollarVolume": 3360,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-07-28",
+      "open": 16.75,
+      "high": 16.75,
+      "low": 16.75,
+      "close": 16.75,
+      "volume": 200,
+      "dollarVolume": 3350,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-08-13",
+      "open": 16.65,
+      "high": 16.65,
+      "low": 16.65,
+      "close": 16.65,
+      "volume": 0,
+      "dollarVolume": 0,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-08-14",
+      "open": 16.05,
+      "high": 16.05,
+      "low": 16.05,
+      "close": 16.05,
+      "volume": 800,
+      "dollarVolume": 12840,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-08-20",
+      "open": 15.6,
+      "high": 15.6,
+      "low": 15.6,
+      "close": 15.6,
+      "volume": 200,
+      "dollarVolume": 3120,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-08-27",
+      "open": 15.64,
+      "high": 15.64,
+      "low": 15.64,
+      "close": 15.64,
+      "volume": 100,
+      "dollarVolume": 1564,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-08-28",
+      "open": 15.6,
+      "high": 15.6,
+      "low": 15.6,
+      "close": 15.6,
+      "volume": 800,
+      "dollarVolume": 12480,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-09-15",
+      "open": 15.6,
+      "high": 15.6,
+      "low": 15.6,
+      "close": 15.6,
+      "volume": 2190,
+      "dollarVolume": 34164,
+      "tradeCount": 2,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-09-22",
+      "open": 15.6,
+      "high": 15.6,
+      "low": 15.6,
+      "close": 15.6,
+      "volume": 54943,
+      "dollarVolume": 857110.7999999999,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-09-24",
+      "open": 15.05,
+      "high": 15.05,
+      "low": 14.27,
+      "close": 14.27,
+      "volume": 5200,
+      "dollarVolume": 74204,
+      "tradeCount": 3,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-10-03",
+      "open": 15.25,
+      "high": 15.25,
+      "low": 15.15,
+      "close": 15.2,
+      "volume": 3300,
+      "dollarVolume": 50160,
+      "tradeCount": 4,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-10-06",
+      "open": 15,
+      "high": 15,
+      "low": 15,
+      "close": 15,
+      "volume": 400,
+      "dollarVolume": 6000,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-10-08",
+      "open": 14,
+      "high": 14,
+      "low": 12.6,
+      "close": 13.3,
+      "volume": 8400,
+      "dollarVolume": 111720,
+      "tradeCount": 4,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-10-09",
+      "open": 13,
+      "high": 13,
+      "low": 13,
+      "close": 13,
+      "volume": 400,
+      "dollarVolume": 5200,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-10-10",
+      "open": 13,
+      "high": 13,
+      "low": 13,
+      "close": 13,
+      "volume": 1061,
+      "dollarVolume": 13793,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-10-23",
+      "open": 13.5,
+      "high": 13.5,
+      "low": 13.4,
+      "close": 13.4,
+      "volume": 1500,
+      "dollarVolume": 20100,
+      "tradeCount": 4,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-11-03",
+      "open": 13.75,
+      "high": 13.75,
+      "low": 13.75,
+      "close": 13.75,
+      "volume": 100,
+      "dollarVolume": 1375,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-11-20",
+      "open": 12.55,
+      "high": 12.55,
+      "low": 12.55,
+      "close": 12.55,
+      "volume": 997,
+      "dollarVolume": 12512.35,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-11-24",
+      "open": 12,
+      "high": 12,
+      "low": 12,
+      "close": 12,
+      "volume": 400,
+      "dollarVolume": 4800,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-11-25",
+      "open": 12.5,
+      "high": 12.5,
+      "low": 12.5,
+      "close": 12.5,
+      "volume": 150,
+      "dollarVolume": 1875,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-12-02",
+      "open": 12,
+      "high": 12,
+      "low": 12,
+      "close": 12,
+      "volume": 700,
+      "dollarVolume": 8400,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-12-04",
+      "open": 12,
+      "high": 12,
+      "low": 12,
+      "close": 12,
+      "volume": 200,
+      "dollarVolume": 2400,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-12-08",
+      "open": 11.05,
+      "high": 11.05,
+      "low": 11.05,
+      "close": 11.05,
+      "volume": 200,
+      "dollarVolume": 2210,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2008-12-10",
+      "open": 10.81,
+      "high": 10.81,
+      "low": 10.81,
+      "close": 10.81,
+      "volume": 0,
+      "dollarVolume": 0,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-01-07",
+      "open": 10.81,
+      "high": 10.81,
+      "low": 10.81,
+      "close": 10.81,
+      "volume": 300,
+      "dollarVolume": 3243,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-01-16",
+      "open": 10.55,
+      "high": 10.55,
+      "low": 10.55,
+      "close": 10.55,
+      "volume": 350,
+      "dollarVolume": 3692.5000000000005,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-01-26",
+      "open": 11.5,
+      "high": 11.5,
+      "low": 10,
+      "close": 10,
+      "volume": 2450,
+      "dollarVolume": 24500,
+      "tradeCount": 3,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-01-27",
+      "open": 10.5,
+      "high": 10.5,
+      "low": 10.5,
+      "close": 10.5,
+      "volume": 200,
+      "dollarVolume": 2100,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-01-30",
+      "open": 10.5,
+      "high": 10.5,
+      "low": 10.5,
+      "close": 10.5,
+      "volume": 200,
+      "dollarVolume": 2100,
+      "tradeCount": 2,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-02-02",
+      "open": 10.5,
+      "high": 10.5,
+      "low": 10.5,
+      "close": 10.5,
+      "volume": 300,
+      "dollarVolume": 3150,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-02-12",
+      "open": 11.05,
+      "high": 11.05,
+      "low": 11.05,
+      "close": 11.05,
+      "volume": 4100,
+      "dollarVolume": 45305,
+      "tradeCount": 4,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-02-23",
+      "open": 10.88,
+      "high": 10.88,
+      "low": 10.88,
+      "close": 10.88,
+      "volume": 20500,
+      "dollarVolume": 223040.00000000003,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-03-06",
+      "open": 11,
+      "high": 11,
+      "low": 11,
+      "close": 11,
+      "volume": 3151,
+      "dollarVolume": 34661,
+      "tradeCount": 3,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-03-27",
+      "open": 9.41,
+      "high": 10.5,
+      "low": 9.41,
+      "close": 10.5,
+      "volume": 3800,
+      "dollarVolume": 39900,
+      "tradeCount": 5,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-04-02",
+      "open": 11,
+      "high": 11,
+      "low": 11,
+      "close": 11,
+      "volume": 100,
+      "dollarVolume": 1100,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-04-08",
+      "open": 9.74,
+      "high": 9.74,
+      "low": 9.74,
+      "close": 9.74,
+      "volume": 300,
+      "dollarVolume": 2922,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-04-09",
+      "open": 9.75,
+      "high": 9.75,
+      "low": 9.75,
+      "close": 9.75,
+      "volume": 350,
+      "dollarVolume": 3412.5,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-04-14",
+      "open": 9.7,
+      "high": 9.7,
+      "low": 9.7,
+      "close": 9.7,
+      "volume": 106,
+      "dollarVolume": 1028.1999999999998,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-04-21",
+      "open": 10,
+      "high": 10,
+      "low": 10,
+      "close": 10,
+      "volume": 588,
+      "dollarVolume": 5880,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-05-07",
+      "open": 9.8,
+      "high": 9.8,
+      "low": 9.7,
+      "close": 9.7,
+      "volume": 2456,
+      "dollarVolume": 23823.199999999997,
+      "tradeCount": 3,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-05-20",
+      "open": 9.4,
+      "high": 9.4,
+      "low": 9.4,
+      "close": 9.4,
+      "volume": 1342,
+      "dollarVolume": 12614.800000000001,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-05-27",
+      "open": 10,
+      "high": 10,
+      "low": 10,
+      "close": 10,
+      "volume": 242,
+      "dollarVolume": 2420,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-06-03",
+      "open": 10.4,
+      "high": 10.4,
+      "low": 10.4,
+      "close": 10.4,
+      "volume": 100,
+      "dollarVolume": 1040,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-06-08",
+      "open": 12.2,
+      "high": 12.2,
+      "low": 12,
+      "close": 12,
+      "volume": 3000,
+      "dollarVolume": 36000,
+      "tradeCount": 2,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-06-10",
+      "open": 10.99,
+      "high": 10.99,
+      "low": 9.45,
+      "close": 9.45,
+      "volume": 1600,
+      "dollarVolume": 15119.999999999998,
+      "tradeCount": 3,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-06-23",
+      "open": 10.05,
+      "high": 10.05,
+      "low": 9.4,
+      "close": 9.5,
+      "volume": 2808,
+      "dollarVolume": 26676,
+      "tradeCount": 4,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-06-26",
+      "open": 10.05,
+      "high": 10.05,
+      "low": 10.05,
+      "close": 10.05,
+      "volume": 200,
+      "dollarVolume": 2010.0000000000002,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-07-01",
+      "open": 10.05,
+      "high": 10.05,
+      "low": 10.05,
+      "close": 10.05,
+      "volume": 120,
+      "dollarVolume": 1206,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-07-15",
+      "open": 10.1,
+      "high": 10.1,
+      "low": 10.1,
+      "close": 10.1,
+      "volume": 5198,
+      "dollarVolume": 52499.799999999996,
+      "tradeCount": 4,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-08-10",
+      "open": 10,
+      "high": 10,
+      "low": 10,
+      "close": 10,
+      "volume": 200,
+      "dollarVolume": 2000,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-08-17",
+      "open": 9.5,
+      "high": 9.5,
+      "low": 9.5,
+      "close": 9.5,
+      "volume": 615,
+      "dollarVolume": 5842.5,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-08-19",
+      "open": 9.05,
+      "high": 9.05,
+      "low": 9.05,
+      "close": 9.05,
+      "volume": 1000,
+      "dollarVolume": 9050,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-08-21",
+      "open": 9.5,
+      "high": 9.5,
+      "low": 9.5,
+      "close": 9.5,
+      "volume": 400,
+      "dollarVolume": 3800,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-08-31",
+      "open": 9.5,
+      "high": 9.5,
+      "low": 9.5,
+      "close": 9.5,
+      "volume": 985,
+      "dollarVolume": 9357.5,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-09-09",
+      "open": 9.8,
+      "high": 9.8,
+      "low": 9.8,
+      "close": 9.8,
+      "volume": 2470,
+      "dollarVolume": 24206,
+      "tradeCount": 2,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-09-11",
+      "open": 9.8,
+      "high": 9.8,
+      "low": 9.8,
+      "close": 9.8,
+      "volume": 1785,
+      "dollarVolume": 17493,
+      "tradeCount": 2,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-09-17",
+      "open": 9.6,
+      "high": 9.6,
+      "low": 9.6,
+      "close": 9.6,
+      "volume": 200,
+      "dollarVolume": 1920,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-09-25",
+      "open": 9.5,
+      "high": 9.5,
+      "low": 9.5,
+      "close": 9.5,
+      "volume": 1000,
+      "dollarVolume": 9500,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-10-19",
+      "open": 9.5,
+      "high": 9.5,
+      "low": 9.25,
+      "close": 9.25,
+      "volume": 2654,
+      "dollarVolume": 24549.5,
+      "tradeCount": 4,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-11-05",
+      "open": 9.1,
+      "high": 9.1,
+      "low": 9.1,
+      "close": 9.1,
+      "volume": 323,
+      "dollarVolume": 2939.2999999999997,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-11-13",
+      "open": 9,
+      "high": 9,
+      "low": 9,
+      "close": 9,
+      "volume": 389,
+      "dollarVolume": 3501,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2009-12-31",
+      "open": 8.05,
+      "high": 8.05,
+      "low": 8.05,
+      "close": 8.05,
+      "volume": 200,
+      "dollarVolume": 1610.0000000000002,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2010-01-04",
+      "open": 8.05,
+      "high": 8.05,
+      "low": 8.05,
+      "close": 8.05,
+      "volume": 250,
+      "dollarVolume": 2012.5000000000002,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2010-02-05",
+      "open": 7.75,
+      "high": 7.75,
+      "low": 7.75,
+      "close": 7.75,
+      "volume": 188,
+      "dollarVolume": 1457,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2010-03-02",
+      "open": 7.11,
+      "high": 8,
+      "low": 7.11,
+      "close": 8,
+      "volume": 6000,
+      "dollarVolume": 48000,
+      "tradeCount": 3,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2010-03-05",
+      "open": 7.12,
+      "high": 7.5,
+      "low": 7,
+      "close": 7.5,
+      "volume": 12600,
+      "dollarVolume": 94500,
+      "tradeCount": 4,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2010-03-18",
+      "open": 7.02,
+      "high": 7.02,
+      "low": 7.02,
+      "close": 7.02,
+      "volume": 200,
+      "dollarVolume": 1404,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2010-03-19",
+      "open": 7.8,
+      "high": 7.8,
+      "low": 7.8,
+      "close": 7.8,
+      "volume": 250,
+      "dollarVolume": 1950,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2010-03-24",
+      "open": 7.8,
+      "high": 7.8,
+      "low": 7.8,
+      "close": 7.8,
+      "volume": 500,
+      "dollarVolume": 3900,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2010-05-20",
+      "open": 7.02,
+      "high": 7.02,
+      "low": 7.02,
+      "close": 7.02,
+      "volume": 200,
+      "dollarVolume": 1404,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2010-06-03",
+      "open": 7,
+      "high": 7,
+      "low": 7,
+      "close": 7,
+      "volume": 398,
+      "dollarVolume": 2786,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2010-06-14",
+      "open": 6,
+      "high": 6,
+      "low": 6,
+      "close": 6,
+      "volume": 2909,
+      "dollarVolume": 17454,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2010-06-23",
+      "open": 8,
+      "high": 8,
+      "low": 8,
+      "close": 8,
+      "volume": 200,
+      "dollarVolume": 1600,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2010-07-16",
+      "open": 6.55,
+      "high": 6.55,
+      "low": 6.55,
+      "close": 6.55,
+      "volume": 3178,
+      "dollarVolume": 20815.899999999998,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2010-07-20",
+      "open": 7.8,
+      "high": 8,
+      "low": 7.8,
+      "close": 8,
+      "volume": 1500,
+      "dollarVolume": 12000,
+      "tradeCount": 2,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2010-08-02",
+      "open": 8,
+      "high": 8,
+      "low": 8,
+      "close": 8,
+      "volume": 100,
+      "dollarVolume": 800,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2010-08-17",
+      "open": 8,
+      "high": 8,
+      "low": 8,
+      "close": 8,
+      "volume": 210,
+      "dollarVolume": 1680,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2010-08-30",
+      "open": 8,
+      "high": 8,
+      "low": 8,
+      "close": 8,
+      "volume": 692,
+      "dollarVolume": 5536,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2010-09-16",
+      "open": 6.5,
+      "high": 6.5,
+      "low": 6.5,
+      "close": 6.5,
+      "volume": 579,
+      "dollarVolume": 3763.5,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2010-09-20",
+      "open": 6.5,
+      "high": 6.5,
+      "low": 6.5,
+      "close": 6.5,
+      "volume": 579,
+      "dollarVolume": 3763.5,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2010-11-04",
+      "open": 6,
+      "high": 6,
+      "low": 6,
+      "close": 6,
+      "volume": 200,
+      "dollarVolume": 1200,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2010-11-05",
+      "open": 6.5,
+      "high": 6.5,
+      "low": 6.5,
+      "close": 6.5,
+      "volume": 600,
+      "dollarVolume": 3900,
+      "tradeCount": 2,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2010-11-15",
+      "open": 6.5,
+      "high": 6.5,
+      "low": 6.5,
+      "close": 6.5,
+      "volume": 100,
+      "dollarVolume": 650,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2010-11-16",
+      "open": 6,
+      "high": 6,
+      "low": 6,
+      "close": 6,
+      "volume": 2000,
+      "dollarVolume": 12000,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2010-11-17",
+      "open": 5.8,
+      "high": 5.8,
+      "low": 5.8,
+      "close": 5.8,
+      "volume": 146,
+      "dollarVolume": 846.8,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2010-12-14",
+      "open": 5.8,
+      "high": 5.8,
+      "low": 5.4,
+      "close": 5.4,
+      "volume": 3911,
+      "dollarVolume": 21119.4,
+      "tradeCount": 2,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2010-12-17",
+      "open": 4.4,
+      "high": 4.4,
+      "low": 4.4,
+      "close": 4.4,
+      "volume": 1500,
+      "dollarVolume": 6600.000000000001,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2010-12-21",
+      "open": 5,
+      "high": 5,
+      "low": 5,
+      "close": 5,
+      "volume": 450,
+      "dollarVolume": 2250,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2010-12-27",
+      "open": 5.25,
+      "high": 5.25,
+      "low": 5.25,
+      "close": 5.25,
+      "volume": 1000,
+      "dollarVolume": 5250,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2011-01-03",
+      "open": 4.5,
+      "high": 4.5,
+      "low": 4.5,
+      "close": 4.5,
+      "volume": 200,
+      "dollarVolume": 900,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2011-01-05",
+      "open": 5.25,
+      "high": 5.25,
+      "low": 5.25,
+      "close": 5.25,
+      "volume": 600,
+      "dollarVolume": 3150,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2011-01-07",
+      "open": 5.25,
+      "high": 5.25,
+      "low": 5.25,
+      "close": 5.25,
+      "volume": 500,
+      "dollarVolume": 2625,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2011-01-10",
+      "open": 5.25,
+      "high": 5.25,
+      "low": 5.25,
+      "close": 5.25,
+      "volume": 500,
+      "dollarVolume": 2625,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2011-01-11",
+      "open": 5.25,
+      "high": 5.25,
+      "low": 5.25,
+      "close": 5.25,
+      "volume": 621,
+      "dollarVolume": 3260.25,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2011-01-19",
+      "open": 5.5,
+      "high": 5.5,
+      "low": 5.5,
+      "close": 5.5,
+      "volume": 500,
+      "dollarVolume": 2750,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2011-02-17",
+      "open": 4.4,
+      "high": 4.75,
+      "low": 4.4,
+      "close": 4.75,
+      "volume": 600,
+      "dollarVolume": 2850,
+      "tradeCount": 3,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2011-04-25",
+      "open": 5.25,
+      "high": 5.25,
+      "low": 5.25,
+      "close": 5.25,
+      "volume": 429,
+      "dollarVolume": 2252.25,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2011-07-18",
+      "open": 4.75,
+      "high": 4.75,
+      "low": 4.75,
+      "close": 4.75,
+      "volume": 300,
+      "dollarVolume": 1425,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2011-07-28",
+      "open": 4.1,
+      "high": 4.1,
+      "low": 4.05,
+      "close": 4.05,
+      "volume": 1158,
+      "dollarVolume": 4689.9,
+      "tradeCount": 2,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2011-08-02",
+      "open": 4.25,
+      "high": 4.25,
+      "low": 4.25,
+      "close": 4.25,
+      "volume": 500,
+      "dollarVolume": 2125,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2011-08-05",
+      "open": 4.5,
+      "high": 4.5,
+      "low": 4.5,
+      "close": 4.5,
+      "volume": 1000,
+      "dollarVolume": 4500,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2011-08-15",
+      "open": 5,
+      "high": 5,
+      "low": 5,
+      "close": 5,
+      "volume": 250,
+      "dollarVolume": 1250,
+      "tradeCount": 2,
+      "sources": [
+        "local-cache"
+      ]
+    },
+    {
+      "date": "2011-12-22",
+      "open": 4,
+      "high": 4,
+      "low": 4,
+      "close": 4,
+      "volume": 0,
+      "dollarVolume": 0,
+      "tradeCount": 1,
+      "sources": [
+        "local-cache"
+      ]
+    }
+  ],
+  "sources": [
+    "local-cache"
+  ],
+  "generatedAt": "2026-01-11T00:09:45.834Z"
+}

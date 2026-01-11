@@ -1,0 +1,23 @@
+{
+  "cik": "CIK0001255294",
+  "company": "Cane Clark LLP",
+  "filings": [
+    {
+      "accessionNumber": "0001255294-05-000383",
+      "filingDate": "2005-06-16",
+      "form": "SC 13D",
+      "description": "mainbody.htm",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001255294/000125529405000383/mainbody.htm",
+      "size": 68248
+    },
+    {
+      "accessionNumber": "0001117768-05-000059",
+      "filingDate": "2005-06-15",
+      "form": "3",
+      "description": "xslF345X02/primary_doc.xml",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001255294/000111776805000059/xslF345X02/primary_doc.xml",
+      "size": 4092
+    }
+  ],
+  "generatedAt": "2026-01-11T00:09:45.841Z"
+}

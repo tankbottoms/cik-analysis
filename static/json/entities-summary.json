@@ -1,0 +1,147 @@
+{
+  "entities": [
+    {
+      "cik": "CIK0000878146",
+      "ticker": "LGAL",
+      "company": "Legal Access Technologies Inc.",
+      "periods": [
+        {
+          "ticker": "LGAL",
+          "start": "2008-01-07",
+          "end": "2010-12-02",
+          "tradingDays": 471,
+          "peakPrice": 0.018,
+          "totalVolume": 3165770904
+        }
+      ],
+      "hasData": true
+    },
+    {
+      "cik": "CIK0000013156",
+      "ticker": "GLXZ",
+      "company": "Galaxy Gaming, Inc.",
+      "periods": [
+        {
+          "ticker": "GLXZ",
+          "start": "2009-08-04",
+          "end": "2026-01-09T14:30:00.000Z",
+          "tradingDays": 4159,
+          "peakPrice": 5.25,
+          "totalVolume": 128292172
+        }
+      ],
+      "hasData": true
+    },
+    {
+      "cik": "CIK0001059577",
+      "ticker": "DAVN",
+      "company": "Davi Skin Inc.",
+      "periods": [
+        {
+          "ticker": "DAVN",
+          "start": "2008-01-02",
+          "end": "2008-11-21",
+          "tradingDays": 120,
+          "peakPrice": 0.19,
+          "totalVolume": 7001951
+        },
+        {
+          "ticker": "DAVNE",
+          "start": "2008-11-21",
+          "end": "2008-12-18",
+          "tradingDays": 9,
+          "peakPrice": 0.003,
+          "totalVolume": 244891
+        }
+      ],
+      "hasData": true
+    },
+    {
+      "cik": "CIK0001543098",
+      "ticker": "FFSL",
+      "company": "CodeSmart Holdings, Inc.",
+      "periods": [
+        {
+          "ticker": "FFSL",
+          "start": "2008-01-08",
+          "end": "2011-12-22",
+          "tradingDays": 123,
+          "peakPrice": 18.25,
+          "totalVolume": 295964
+        }
+      ],
+      "hasData": true
+    },
+    {
+      "cik": "CIK0001487659",
+      "ticker": "SNPD",
+      "company": "Co-Signer, Inc.",
+      "periods": [
+        {
+          "ticker": "SNPD",
+          "start": "2011-07-29",
+          "end": "2011-09-08",
+          "tradingDays": 2,
+          "peakPrice": 2.25,
+          "totalVolume": 1000
+        }
+      ],
+      "hasData": true
+    },
+    {
+      "cik": "CIK0001103993",
+      "ticker": "LVGI",
+      "company": "Las Vegas Gaming, Inc.",
+      "periods": [],
+      "hasData": false
+    },
+    {
+      "cik": "CIK0001100131",
+      "ticker": "SSSI",
+      "company": "Sedona Software Solutions, Inc.",
+      "periods": [],
+      "hasData": false
+    },
+    {
+      "cik": "CIK0001507718",
+      "ticker": "CRPT",
+      "company": "Cubed, Inc.",
+      "periods": [],
+      "hasData": false
+    },
+    {
+      "cik": "CIK0001561622",
+      "ticker": "TSGL",
+      "company": "Aviana Corp.",
+      "periods": [],
+      "hasData": false
+    },
+    {
+      "cik": "CIK0001144030",
+      "ticker": "LGAL",
+      "company": "Kyleen E Cane",
+      "periods": [],
+      "hasData": false
+    },
+    {
+      "cik": "CIK0001286757",
+      "ticker": "DAVN",
+      "company": "Jan Wallace",
+      "periods": [],
+      "hasData": false
+    },
+    {
+      "cik": "CIK0001255294",
+      "ticker": "SSSI",
+      "company": "Cane Clark LLP",
+      "periods": [],
+      "hasData": false
+    }
+  ],
+  "totalRecords": 4884,
+  "dateRange": {
+    "earliest": "2008-01-02",
+    "latest": "2026-01-09T14:30:00.000Z"
+  },
+  "generatedAt": "2026-01-11T00:09:45.841Z"
+}

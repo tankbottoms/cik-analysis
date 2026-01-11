@@ -1,0 +1,31 @@
+{
+  "cik": "CIK0001286757",
+  "company": "Jan Wallace",
+  "filings": [
+    {
+      "accessionNumber": "0001255294-06-000228",
+      "filingDate": "2006-04-10",
+      "form": "5",
+      "description": "xslF345X02/primary_doc.xml",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001286757/000125529406000228/xslF345X02/primary_doc.xml",
+      "size": 9603
+    },
+    {
+      "accessionNumber": "0001255294-06-000227",
+      "filingDate": "2006-04-07",
+      "form": "3",
+      "description": "xslF345X02/primary_doc.xml",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001286757/000125529406000227/xslF345X02/primary_doc.xml",
+      "size": 5670
+    },
+    {
+      "accessionNumber": "0001255294-04-000119",
+      "filingDate": "2004-04-12",
+      "form": "5",
+      "description": "xslF345X02/primary_doc.xml",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001286757/000125529404000119/xslF345X02/primary_doc.xml",
+      "size": 5084
+    }
+  ],
+  "generatedAt": "2026-01-11T00:09:45.840Z"
+}

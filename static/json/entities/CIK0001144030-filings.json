@@ -1,0 +1,103 @@
+{
+  "cik": "CIK0001144030",
+  "company": "Kyleen E Cane",
+  "filings": [
+    {
+      "accessionNumber": "0001255294-13-000749",
+      "filingDate": "2013-09-18",
+      "form": "4",
+      "description": "xslF345X03/mainbody.xml",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001144030/000125529413000749/xslF345X03/mainbody.xml",
+      "size": 2892
+    },
+    {
+      "accessionNumber": "0001255294-10-000274",
+      "filingDate": "2010-04-12",
+      "form": "4",
+      "description": "xslF345X03/primary_doc.xml",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001144030/000125529410000274/xslF345X03/primary_doc.xml",
+      "size": 7142
+    },
+    {
+      "accessionNumber": "0001255294-09-000069",
+      "filingDate": "2009-02-18",
+      "form": "4/A",
+      "description": "xslF345X03/primary_doc.xml",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001144030/000125529409000069/xslF345X03/primary_doc.xml",
+      "size": 5669
+    },
+    {
+      "accessionNumber": "0001255294-09-000061",
+      "filingDate": "2009-02-17",
+      "form": "4",
+      "description": "xslF345X03/primary_doc.xml",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001144030/000125529409000061/xslF345X03/primary_doc.xml",
+      "size": 5870
+    },
+    {
+      "accessionNumber": "0001255294-09-000048",
+      "filingDate": "2009-02-13",
+      "form": "4",
+      "description": "xslF345X03/primary_doc.xml",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001144030/000125529409000048/xslF345X03/primary_doc.xml",
+      "size": 9421
+    },
+    {
+      "accessionNumber": "0001255294-05-000636",
+      "filingDate": "2005-10-13",
+      "form": "4",
+      "description": "xslF345X02/primary_doc.xml",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001144030/000125529405000636/xslF345X02/primary_doc.xml",
+      "size": 5684
+    },
+    {
+      "accessionNumber": "0001255294-05-000179",
+      "filingDate": "2005-04-18",
+      "form": "5",
+      "description": "xslF345X02/primary_doc.xml",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001144030/000125529405000179/xslF345X02/primary_doc.xml",
+      "size": 13898
+    },
+    {
+      "accessionNumber": "0001255294-04-000300",
+      "filingDate": "2004-11-05",
+      "form": "4",
+      "description": "xslF345X02/primary_doc.xml",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001144030/000125529404000300/xslF345X02/primary_doc.xml",
+      "size": 13866
+    },
+    {
+      "accessionNumber": "0001255294-04-000216",
+      "filingDate": "2004-07-22",
+      "form": "5",
+      "description": "xslF345X02/primary_doc.xml",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001144030/000125529404000216/xslF345X02/primary_doc.xml",
+      "size": 5797
+    },
+    {
+      "accessionNumber": "0001075793-02-000056",
+      "filingDate": "2002-02-14",
+      "form": "SC 13D",
+      "description": "macthriteend.txt",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001144030/000107579302000056/macthriteend.txt",
+      "size": 10692
+    },
+    {
+      "accessionNumber": "0001075793-01-500108",
+      "filingDate": "2001-07-05",
+      "form": "SC 13D/A",
+      "description": "schthirteeddaonemac.txt",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001144030/000107579301500108/schthirteeddaonemac.txt",
+      "size": 9748
+    },
+    {
+      "accessionNumber": "0001075793-01-500095",
+      "filingDate": "2001-06-28",
+      "form": "SC 13D",
+      "description": "schthirteeddmac.txt",
+      "documentUrl": "https://www.sec.gov/Archives/edgar/data/0001144030/000107579301500095/schthirteeddmac.txt",
+      "size": 9746
+    }
+  ],
+  "generatedAt": "2026-01-11T00:09:45.840Z"
+}
