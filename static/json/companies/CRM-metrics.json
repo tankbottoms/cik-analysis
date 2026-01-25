@@ -1,0 +1,64 @@
+{
+  "quote": {
+    "price": 228.06,
+    "change": -0.03,
+    "changePercent": -0.0132,
+    "high": 230.85,
+    "low": 226.65,
+    "open": 226.79,
+    "previousClose": 228.09
+  },
+  "earnings": [
+    {
+      "actual": 3.25,
+      "estimate": 2.8867,
+      "period": "2025-12-31",
+      "quarter": 3,
+      "surprise": 0.3633,
+      "surprisePercent": 12.5853,
+      "symbol": "CRM",
+      "year": 2026
+    },
+    {
+      "actual": 2.91,
+      "estimate": 2.8054,
+      "period": "2025-09-30",
+      "quarter": 2,
+      "surprise": 0.1046,
+      "surprisePercent": 3.7285,
+      "symbol": "CRM",
+      "year": 2026
+    },
+    {
+      "actual": 2.58,
+      "estimate": 2.5704,
+      "period": "2025-06-30",
+      "quarter": 1,
+      "surprise": 0.0096,
+      "surprisePercent": 0.3735,
+      "symbol": "CRM",
+      "year": 2026
+    },
+    {
+      "actual": 2.78,
+      "estimate": 2.6346,
+      "period": "2025-03-31",
+      "quarter": 4,
+      "surprise": 0.1454,
+      "surprisePercent": 5.5189,
+      "symbol": "CRM",
+      "year": 2025
+    }
+  ],
+  "recommendations": {
+    "buy": 30,
+    "hold": 13,
+    "period": "2026-01-01",
+    "sell": 0,
+    "strongBuy": 15,
+    "strongSell": 1,
+    "symbol": "CRM"
+  },
+  "source": "finnhub",
+  "generatedAt": "2026-01-25T17:19:49.424Z"
+}

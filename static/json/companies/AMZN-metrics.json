@@ -1,0 +1,64 @@
+{
+  "quote": {
+    "price": 239.17,
+    "change": 4.83,
+    "changePercent": 2.0611,
+    "high": 240.45,
+    "low": 234.57,
+    "open": 234.965,
+    "previousClose": 234.34
+  },
+  "earnings": [
+    {
+      "actual": 1.95,
+      "estimate": 1.605,
+      "period": "2025-09-30",
+      "quarter": 3,
+      "surprise": 0.345,
+      "surprisePercent": 21.4953,
+      "symbol": "AMZN",
+      "year": 2025
+    },
+    {
+      "actual": 1.68,
+      "estimate": 1.3545,
+      "period": "2025-06-30",
+      "quarter": 2,
+      "surprise": 0.3255,
+      "surprisePercent": 24.031,
+      "symbol": "AMZN",
+      "year": 2025
+    },
+    {
+      "actual": 1.59,
+      "estimate": 1.3893,
+      "period": "2025-03-31",
+      "quarter": 1,
+      "surprise": 0.2007,
+      "surprisePercent": 14.4461,
+      "symbol": "AMZN",
+      "year": 2025
+    },
+    {
+      "actual": 1.86,
+      "estimate": 1.5242,
+      "period": "2024-12-31",
+      "quarter": 4,
+      "surprise": 0.3358,
+      "surprisePercent": 22.0312,
+      "symbol": "AMZN",
+      "year": 2024
+    }
+  ],
+  "recommendations": {
+    "buy": 52,
+    "hold": 4,
+    "period": "2026-01-01",
+    "sell": 0,
+    "strongBuy": 21,
+    "strongSell": 0,
+    "symbol": "AMZN"
+  },
+  "source": "finnhub",
+  "generatedAt": "2026-01-25T17:19:02.921Z"
+}

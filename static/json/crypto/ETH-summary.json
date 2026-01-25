@@ -1,0 +1,22 @@
+{
+  "symbol": "ETH/USD",
+  "name": "Ethereum",
+  "ticker": "ETH",
+  "stats": {
+    "high": 4955.45,
+    "low": 881.96002,
+    "avgPrice": 2585.0178710755636,
+    "totalVolume": 0,
+    "tradingDays": 1596,
+    "startPrice": 3284.030029,
+    "endPrice": 2893.76,
+    "priceChange": -390.2700289999998,
+    "priceChangePercent": -11.88387516416342
+  },
+  "period": {
+    "start": "2021-09-13",
+    "end": "2026-01-25"
+  },
+  "source": "twelvedata",
+  "generatedAt": "2026-01-25T16:59:39.959Z"
+}

@@ -1,0 +1,64 @@
+{
+  "quote": {
+    "price": 478.98,
+    "change": -5.51,
+    "changePercent": -1.1373,
+    "high": 483.42,
+    "low": 478.44,
+    "open": 482.27,
+    "previousClose": 484.49
+  },
+  "earnings": [
+    {
+      "actual": 9376.15,
+      "estimate": 8945.8442,
+      "period": "2025-09-30",
+      "quarter": 3,
+      "surprise": 430.3058,
+      "surprisePercent": 4.8101,
+      "symbol": "BRK.A",
+      "year": 2025
+    },
+    {
+      "actual": 7759.58,
+      "estimate": 7744.8172,
+      "period": "2025-06-30",
+      "quarter": 2,
+      "surprise": 14.7628,
+      "surprisePercent": 0.1906,
+      "symbol": "BRK.A",
+      "year": 2025
+    },
+    {
+      "actual": 6703.411,
+      "estimate": 7430.2851,
+      "period": "2025-03-31",
+      "quarter": 1,
+      "surprise": -726.8741,
+      "surprisePercent": -9.7826,
+      "symbol": "BRK.A",
+      "year": 2025
+    },
+    {
+      "actual": 10102.07,
+      "estimate": 7074.2838,
+      "period": "2024-12-31",
+      "quarter": 4,
+      "surprise": 3027.7862,
+      "surprisePercent": 42.7999,
+      "symbol": "BRK.A",
+      "year": 2024
+    }
+  ],
+  "recommendations": {
+    "buy": 1,
+    "hold": 3,
+    "period": "2026-01-01",
+    "sell": 3,
+    "strongBuy": 0,
+    "strongSell": 3,
+    "symbol": "BRK.A"
+  },
+  "source": "finnhub",
+  "generatedAt": "2026-01-25T17:19:28.745Z"
+}

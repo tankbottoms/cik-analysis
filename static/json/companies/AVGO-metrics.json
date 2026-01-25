@@ -1,0 +1,64 @@
+{
+  "quote": {
+    "price": 320.06,
+    "change": -5.43,
+    "changePercent": -1.6683,
+    "high": 321.99,
+    "low": 314.11,
+    "open": 319.31,
+    "previousClose": 325.49
+  },
+  "earnings": [
+    {
+      "actual": 1.95,
+      "estimate": 1.8996,
+      "period": "2025-12-31",
+      "quarter": 4,
+      "surprise": 0.0504,
+      "surprisePercent": 2.6532,
+      "symbol": "AVGO",
+      "year": 2025
+    },
+    {
+      "actual": 1.69,
+      "estimate": 1.6816,
+      "period": "2025-09-30",
+      "quarter": 3,
+      "surprise": 0.0084,
+      "surprisePercent": 0.4995,
+      "symbol": "AVGO",
+      "year": 2025
+    },
+    {
+      "actual": 1.58,
+      "estimate": 1.5948,
+      "period": "2025-06-30",
+      "quarter": 2,
+      "surprise": -0.0148,
+      "surprisePercent": -0.928,
+      "symbol": "AVGO",
+      "year": 2025
+    },
+    {
+      "actual": 1.6,
+      "estimate": 1.5181,
+      "period": "2025-03-31",
+      "quarter": 1,
+      "surprise": 0.0819,
+      "surprisePercent": 5.3949,
+      "symbol": "AVGO",
+      "year": 2025
+    }
+  ],
+  "recommendations": {
+    "buy": 36,
+    "hold": 3,
+    "period": "2026-01-01",
+    "sell": 0,
+    "strongBuy": 17,
+    "strongSell": 0,
+    "symbol": "AVGO"
+  },
+  "source": "finnhub",
+  "generatedAt": "2026-01-25T17:19:48.621Z"
+}

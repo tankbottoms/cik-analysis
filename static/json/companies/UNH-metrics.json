@@ -1,0 +1,64 @@
+{
+  "quote": {
+    "price": 356.27,
+    "change": 1.8,
+    "changePercent": 0.5078,
+    "high": 357.87,
+    "low": 352.99,
+    "open": 354.28499999999997,
+    "previousClose": 354.47
+  },
+  "earnings": [
+    {
+      "actual": 2.92,
+      "estimate": 2.8218,
+      "period": "2025-09-30",
+      "quarter": 3,
+      "surprise": 0.0982,
+      "surprisePercent": 3.48,
+      "symbol": "UNH",
+      "year": 2025
+    },
+    {
+      "actual": 4.08,
+      "estimate": 4.5292,
+      "period": "2025-06-30",
+      "quarter": 2,
+      "surprise": -0.4492,
+      "surprisePercent": -9.9179,
+      "symbol": "UNH",
+      "year": 2025
+    },
+    {
+      "actual": 7.2,
+      "estimate": 7.3601,
+      "period": "2025-03-31",
+      "quarter": 1,
+      "surprise": -0.1601,
+      "surprisePercent": -2.1752,
+      "symbol": "UNH",
+      "year": 2025
+    },
+    {
+      "actual": 6.81,
+      "estimate": 6.79,
+      "period": "2024-12-31",
+      "quarter": 4,
+      "surprise": 0.02,
+      "surprisePercent": 0.2946,
+      "symbol": "UNH",
+      "year": 2024
+    }
+  ],
+  "recommendations": {
+    "buy": 16,
+    "hold": 9,
+    "period": "2026-01-01",
+    "sell": 1,
+    "strongBuy": 6,
+    "strongSell": 1,
+    "symbol": "UNH"
+  },
+  "source": "finnhub",
+  "generatedAt": "2026-01-25T17:19:37.343Z"
+}

@@ -1,0 +1,64 @@
+{
+  "quote": {
+    "price": 449.07,
+    "change": -0.29,
+    "changePercent": -0.0645,
+    "high": 452.43,
+    "low": 444.04,
+    "open": 447.435,
+    "previousClose": 449.36
+  },
+  "earnings": [
+    {
+      "actual": 0.5,
+      "estimate": 0.5586,
+      "period": "2025-09-30",
+      "quarter": 3,
+      "surprise": -0.0586,
+      "surprisePercent": -10.4905,
+      "symbol": "TSLA",
+      "year": 2025
+    },
+    {
+      "actual": 0.4,
+      "estimate": 0.4373,
+      "period": "2025-06-30",
+      "quarter": 2,
+      "surprise": -0.0373,
+      "surprisePercent": -8.5296,
+      "symbol": "TSLA",
+      "year": 2025
+    },
+    {
+      "actual": 0.27,
+      "estimate": 0.399,
+      "period": "2025-03-31",
+      "quarter": 1,
+      "surprise": -0.129,
+      "surprisePercent": -32.3308,
+      "symbol": "TSLA",
+      "year": 2025
+    },
+    {
+      "actual": 0.73,
+      "estimate": 0.7777,
+      "period": "2024-12-31",
+      "quarter": 4,
+      "surprise": -0.0477,
+      "surprisePercent": -6.1335,
+      "symbol": "TSLA",
+      "year": 2024
+    }
+  ],
+  "recommendations": {
+    "buy": 20,
+    "hold": 21,
+    "period": "2026-01-01",
+    "sell": 9,
+    "strongBuy": 7,
+    "strongSell": 2,
+    "symbol": "TSLA"
+  },
+  "source": "finnhub",
+  "generatedAt": "2026-01-25T17:19:20.161Z"
+}

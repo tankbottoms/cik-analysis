@@ -1,0 +1,64 @@
+{
+  "quote": {
+    "price": 220.15,
+    "change": 1.66,
+    "changePercent": 0.7598,
+    "high": 221.21,
+    "low": 217.8435,
+    "open": 219.81,
+    "previousClose": 218.49
+  },
+  "earnings": [
+    {
+      "actual": 2.46,
+      "estimate": 2.4633,
+      "period": "2025-12-31",
+      "quarter": 4,
+      "surprise": -0.0033,
+      "surprisePercent": -0.134,
+      "symbol": "JNJ",
+      "year": 2025
+    },
+    {
+      "actual": 2.8,
+      "estimate": 2.7848,
+      "period": "2025-09-30",
+      "quarter": 3,
+      "surprise": 0.0152,
+      "surprisePercent": 0.5458,
+      "symbol": "JNJ",
+      "year": 2025
+    },
+    {
+      "actual": 2.77,
+      "estimate": 2.7078,
+      "period": "2025-06-30",
+      "quarter": 2,
+      "surprise": 0.0622,
+      "surprisePercent": 2.2971,
+      "symbol": "JNJ",
+      "year": 2025
+    },
+    {
+      "actual": 2.77,
+      "estimate": 2.6142,
+      "period": "2025-03-31",
+      "quarter": 1,
+      "surprise": 0.1558,
+      "surprisePercent": 5.9598,
+      "symbol": "JNJ",
+      "year": 2025
+    }
+  ],
+  "recommendations": {
+    "buy": 12,
+    "hold": 14,
+    "period": "2026-01-01",
+    "sell": 0,
+    "strongBuy": 6,
+    "strongSell": 0,
+    "symbol": "JNJ"
+  },
+  "source": "finnhub",
+  "generatedAt": "2026-01-25T17:19:45.895Z"
+}

@@ -1,0 +1,1002 @@
+{
+  "profiles": [
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc",
+      "sector": "Technology",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Technology",
+      "marketCap": 3857366.8303222503,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AAPL.png",
+      "website": "https://www.apple.com/"
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corp",
+      "sector": "Technology",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Technology",
+      "marketCap": 3498197.0366530996,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MSFT.png",
+      "website": "https://www.microsoft.com/en-in/"
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc",
+      "sector": "Media",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Media",
+      "marketCap": 4058912.300305637,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/GOOG.png",
+      "website": "https://abc.xyz/"
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com Inc",
+      "sector": "Retail",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Retail",
+      "marketCap": 2593446.37085249,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png",
+      "website": "https://www.amazon.com/"
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corp",
+      "sector": "Semiconductors",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Semiconductors",
+      "marketCap": 4515183.059605083,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/NVDA.png",
+      "website": "https://www.nvidia.com/"
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc",
+      "sector": "Media",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Media",
+      "marketCap": 1590679.61990835,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/FB.png",
+      "website": "https://www.meta.com/"
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla Inc",
+      "sector": "Automobiles",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Automobiles",
+      "marketCap": 1487306.3787241555,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/TSLA.png",
+      "website": "https://www.tesla.com/"
+    },
+    {
+      "symbol": "BRK.A",
+      "name": "Berkshire Hathaway Inc",
+      "sector": "Financial Services",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Financial Services",
+      "marketCap": 1067724.9632866331,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/BRK.B.png",
+      "website": "https://www.berkshirehathaway.com/"
+    },
+    {
+      "symbol": "UNH",
+      "name": "UnitedHealth Group Inc",
+      "sector": "Health Care",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Health Care",
+      "marketCap": 302486.7000694059,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/UNH.png",
+      "website": "https://www.unitedhealthgroup.com/"
+    },
+    {
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "sector": "Pharmaceuticals",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Pharmaceuticals",
+      "marketCap": 514745.8630550879,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/JNJ.png",
+      "website": "https://www.jnj.com/"
+    },
+    {
+      "symbol": "V",
+      "name": "Visa Inc",
+      "sector": "Financial Services",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Financial Services",
+      "marketCap": 626984.4747587598,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/V.png",
+      "website": "https://usa.visa.com/"
+    },
+    {
+      "symbol": "XOM",
+      "name": "Exxon Mobil Corp",
+      "sector": "Energy",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Energy",
+      "marketCap": 506987.6305567703,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/XOM.png",
+      "website": "https://corporate.exxonmobil.com/"
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co",
+      "sector": "Banking",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Banking",
+      "marketCap": 846351.2946948364,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/JPM.png",
+      "website": "https://www.jpmorganchase.com/"
+    },
+    {
+      "symbol": "MA",
+      "name": "Mastercard Inc",
+      "sector": "Financial Services",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Financial Services",
+      "marketCap": 489398.78018329834,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MA.png",
+      "website": "https://www.mastercard.us/"
+    },
+    {
+      "symbol": "PG",
+      "name": "Procter & Gamble Co",
+      "sector": "Consumer products",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Consumer products",
+      "marketCap": 337050.4411640786,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PG.png",
+      "website": "https://us.pg.com/"
+    },
+    {
+      "symbol": "HD",
+      "name": "Home Depot Inc",
+      "sector": "Retail",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Retail",
+      "marketCap": 378035.5298292335,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/HD.png",
+      "website": "https://www.homedepot.com/"
+    },
+    {
+      "symbol": "CVX",
+      "name": "Chevron Corp",
+      "sector": "Energy",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Energy",
+      "marketCap": 329955.7782053702,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CVX.png",
+      "website": "https://www.chevron.com/"
+    },
+    {
+      "symbol": "ABBV",
+      "name": "AbbVie Inc",
+      "sector": "Biotechnology",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Biotechnology",
+      "marketCap": 390150.1481606367,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABBV.png",
+      "website": "https://www.abbvie.com/"
+    },
+    {
+      "symbol": "MRK",
+      "name": "Merck & Co Inc",
+      "sector": "Pharmaceuticals",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Pharmaceuticals",
+      "marketCap": 268703.7576287201,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MRK.png",
+      "website": "https://www.merck.com/"
+    },
+    {
+      "symbol": "LLY",
+      "name": "Eli Lilly and Co",
+      "sector": "Pharmaceuticals",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Pharmaceuticals",
+      "marketCap": 1018357.8979942143,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/LLY.png",
+      "website": "https://www.lilly.com/"
+    },
+    {
+      "symbol": "COST",
+      "name": "Costco Wholesale Corp",
+      "sector": "Retail",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Retail",
+      "marketCap": 418093.92591417424,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/COST.png",
+      "website": "https://www.costco.com/"
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc",
+      "sector": "Semiconductors",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Semiconductors",
+      "marketCap": 1681303.106031812,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png",
+      "website": "https://www.broadcom.com"
+    },
+    {
+      "symbol": "PEP",
+      "name": "PepsiCo Inc",
+      "sector": "Beverages",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Beverages",
+      "marketCap": 196185.95665784745,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PEP.png",
+      "website": "https://www.pepsico.com/"
+    },
+    {
+      "symbol": "KO",
+      "name": "Coca-Cola Co",
+      "sector": "Beverages",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Beverages",
+      "marketCap": 306446.6170901753,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/KO.png",
+      "website": "https://www.coca-colacompany.com/"
+    },
+    {
+      "symbol": "TMO",
+      "name": "Thermo Fisher Scientific Inc",
+      "sector": "Life Sciences Tools & Services",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Life Sciences Tools & Services",
+      "marketCap": 228084.85896036678,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/TMO.png",
+      "website": "https://corporate.thermofisher.com/us/en/index.html"
+    },
+    {
+      "symbol": "WMT",
+      "name": "Walmart Inc",
+      "sector": "Retail",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Retail",
+      "marketCap": 959289.3091064447,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/WMT.png",
+      "website": "https://corporate.walmart.com/"
+    },
+    {
+      "symbol": "BAC",
+      "name": "Bank of America Corp",
+      "sector": "Banking",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Banking",
+      "marketCap": 398278.10041155975,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/BAC.png",
+      "website": "https://www.bankofamerica.com"
+    },
+    {
+      "symbol": "MCD",
+      "name": "McDonald's Corp",
+      "sector": "Hotels, Restaurants & Leisure",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Hotels, Restaurants & Leisure",
+      "marketCap": 220369.04451177883,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MCD.png",
+      "website": "https://www.mcdonalds.com/"
+    },
+    {
+      "symbol": "CSCO",
+      "name": "Cisco Systems Inc",
+      "sector": "Communications",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Communications",
+      "marketCap": 298189.10919483146,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950800186156.png",
+      "website": "https://www.cisco.com/"
+    },
+    {
+      "symbol": "ACN",
+      "name": "Accenture PLC",
+      "sector": "Technology",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Technology",
+      "marketCap": 170316.90673403762,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ACN.png",
+      "website": "https://www.accenture.com/ie-en/"
+    },
+    {
+      "symbol": "ABT",
+      "name": "Abbott Laboratories",
+      "sector": "Health Care",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Health Care",
+      "marketCap": 216141.78210849166,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ABT.png",
+      "website": "https://www.abbott.com"
+    },
+    {
+      "symbol": "DHR",
+      "name": "Danaher Corp",
+      "sector": "Life Sciences Tools & Services",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Life Sciences Tools & Services",
+      "marketCap": 166387.69960671416,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/DHR.png",
+      "website": "https://www.danaher.com/"
+    },
+    {
+      "symbol": "ADBE",
+      "name": "Adobe Inc",
+      "sector": "Technology",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Technology",
+      "marketCap": 129736.69747501556,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ADBE.png",
+      "website": "https://www.adobe.com/"
+    },
+    {
+      "symbol": "CRM",
+      "name": "Salesforce Inc",
+      "sector": "Technology",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Technology",
+      "marketCap": 225873.2146853426,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CRM.png",
+      "website": "https://www.salesforce.com/"
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices Inc",
+      "sector": "Semiconductors",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Semiconductors",
+      "marketCap": 359748.3353470238,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMD.png",
+      "website": "https://www.amd.com/"
+    },
+    {
+      "symbol": "NFLX",
+      "name": "Netflix Inc",
+      "sector": "Media",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Media",
+      "marketCap": 412716.81588895916,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/NFLX.png",
+      "website": "https://www.netflix.com/"
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel Corp",
+      "sector": "Semiconductors",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Semiconductors",
+      "marketCap": 235730.08175186926,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/INTC.png",
+      "website": "https://www.intel.com/"
+    },
+    {
+      "symbol": "DIS",
+      "name": "Walt Disney Co",
+      "sector": "Media",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Media",
+      "marketCap": 201701.9301521642,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/DIS.png",
+      "website": "https://thewaltdisneycompany.com/"
+    },
+    {
+      "symbol": "PFE",
+      "name": "Pfizer Inc",
+      "sector": "Pharmaceuticals",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Pharmaceuticals",
+      "marketCap": 142995.546706298,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PFE.png",
+      "website": "https://www.pfizer.com/"
+    },
+    {
+      "symbol": "NKE",
+      "name": "Nike Inc",
+      "sector": "Textiles, Apparel & Luxury Goods",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Textiles, Apparel & Luxury Goods",
+      "marketCap": 98149.43212952011,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/NKE.png",
+      "website": "https://about.nike.com/"
+    },
+    {
+      "symbol": "VZ",
+      "name": "Verizon Communications Inc",
+      "sector": "Telecommunication",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Telecommunication",
+      "marketCap": 164482.75130843747,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/VZ.png",
+      "website": "https://www.verizon.com/"
+    },
+    {
+      "symbol": "CMCSA",
+      "name": "Comcast Corp",
+      "sector": "Media",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Media",
+      "marketCap": 103778.115455064,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CMCSA.png",
+      "website": "https://corporate.comcast.com/"
+    },
+    {
+      "symbol": "ORCL",
+      "name": "Oracle Corp",
+      "sector": "Technology",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Technology",
+      "marketCap": 581205.423196793,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ORCL.png",
+      "website": "https://www.oracle.com/"
+    },
+    {
+      "symbol": "TXN",
+      "name": "Texas Instruments Inc",
+      "sector": "Semiconductors",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Semiconductors",
+      "marketCap": 171302.69815663848,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/TXN.png",
+      "website": "https://www.ti.com/"
+    },
+    {
+      "symbol": "COP",
+      "name": "ConocoPhillips",
+      "sector": "Energy",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Energy",
+      "marketCap": 119197.38352524859,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/COP.png",
+      "website": "https://www.conocophillips.com/"
+    },
+    {
+      "symbol": "PM",
+      "name": "Philip Morris International Inc",
+      "sector": "Tobacco",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Tobacco",
+      "marketCap": 258168.54970063968,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PM.png",
+      "website": "https://www.pmi.com/"
+    },
+    {
+      "symbol": "QCOM",
+      "name": "Qualcomm Inc",
+      "sector": "Semiconductors",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Semiconductors",
+      "marketCap": 177025.59446840573,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/QCOM.png",
+      "website": "https://www.qualcomm.com/"
+    },
+    {
+      "symbol": "NEE",
+      "name": "Nextera Energy Inc",
+      "sector": "Utilities",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Utilities",
+      "marketCap": 170024.25506362176,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/NEE.png",
+      "website": "https://www.nexteraenergy.com/"
+    },
+    {
+      "symbol": "RTX",
+      "name": "RTX Corp",
+      "sector": "Aerospace & Defense",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Aerospace & Defense",
+      "marketCap": 260217.03264642064,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/RTX.png",
+      "website": "https://www.rtx.com/"
+    },
+    {
+      "symbol": "HON",
+      "name": "Honeywell International Inc",
+      "sector": "Industrial Conglomerates",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Industrial Conglomerates",
+      "marketCap": 133504.08580102283,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/942965692746.png",
+      "website": "https://www.honeywell.com/us/en"
+    },
+    {
+      "symbol": "UNP",
+      "name": "Union Pacific Corp",
+      "sector": "Road & Rail",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Road & Rail",
+      "marketCap": 136005.86016337908,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/UNP.png",
+      "website": "https://www.up.com/index.htm"
+    },
+    {
+      "symbol": "IBM",
+      "name": "International Business Machines Corp",
+      "sector": "Technology",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Technology",
+      "marketCap": 283374.3070213207,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/IBM.png",
+      "website": "https://www.ibm.com/"
+    },
+    {
+      "symbol": "LOW",
+      "name": "Lowe's Companies Inc",
+      "sector": "Retail",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Retail",
+      "marketCap": 153840.93416173907,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/LOW.png",
+      "website": "https://www.lowes.com/"
+    },
+    {
+      "symbol": "SPGI",
+      "name": "S&P Global Inc",
+      "sector": "Financial Services",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Financial Services",
+      "marketCap": 164166.03549252174,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/SPGI.png",
+      "website": "https://www.spglobal.com/"
+    },
+    {
+      "symbol": "CAT",
+      "name": "Caterpillar Inc",
+      "sector": "Machinery",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Machinery",
+      "marketCap": 297883.05367619253,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CAT.png",
+      "website": "https://www.caterpillar.com"
+    },
+    {
+      "symbol": "BA",
+      "name": "Boeing Co",
+      "sector": "Aerospace & Defense",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Aerospace & Defense",
+      "marketCap": 191500.06686405302,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/BA.png",
+      "website": "https://www.boeing.com"
+    },
+    {
+      "symbol": "GE",
+      "name": "General Electric Co",
+      "sector": "Aerospace & Defense",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Aerospace & Defense",
+      "marketCap": 345166.74806858896,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/GE.png",
+      "website": "https://www.ge.com/"
+    },
+    {
+      "symbol": "AMGN",
+      "name": "Amgen Inc",
+      "sector": "Biotechnology",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Biotechnology",
+      "marketCap": 174629.29977448794,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMGN.png",
+      "website": "https://www.amgen.com/"
+    },
+    {
+      "symbol": "DE",
+      "name": "Deere & Co",
+      "sector": "Machinery",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Machinery",
+      "marketCap": 135092.90078827564,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/DE.png",
+      "website": "https://www.deere.com/"
+    },
+    {
+      "symbol": "GS",
+      "name": "Goldman Sachs Group Inc",
+      "sector": "Financial Services",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Financial Services",
+      "marketCap": 281377.9161385673,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/GS.png",
+      "website": "https://www.goldmansachs.com/"
+    },
+    {
+      "symbol": "INTU",
+      "name": "Intuit Inc",
+      "sector": "Technology",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Technology",
+      "marketCap": 168433.71633055975,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/INTU.png",
+      "website": "https://www.intuit.com/"
+    },
+    {
+      "symbol": "ELV",
+      "name": "Elevance Health Inc",
+      "sector": "Health Care",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Health Care",
+      "marketCap": 82379.46735761197,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ANTM.png",
+      "website": "https://www.elevancehealth.com/"
+    },
+    {
+      "symbol": "BKNG",
+      "name": "Booking Holdings Inc",
+      "sector": "Hotels, Restaurants & Leisure",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Hotels, Restaurants & Leisure",
+      "marketCap": 171313.37549729657,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/BKNG.png",
+      "website": "https://www.bookingholdings.com/"
+    },
+    {
+      "symbol": "AXP",
+      "name": "American Express Co",
+      "sector": "Financial Services",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Financial Services",
+      "marketCap": 246608.87871373512,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AXP.png",
+      "website": "https://www.americanexpress.com/"
+    },
+    {
+      "symbol": "MDLZ",
+      "name": "Mondelez International Inc",
+      "sector": "Food Products",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Food Products",
+      "marketCap": 72182.65323104443,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MDLZ.png",
+      "website": "https://www.mondelezinternational.com/"
+    },
+    {
+      "symbol": "ISRG",
+      "name": "Intuitive Surgical Inc",
+      "sector": "Health Care",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Health Care",
+      "marketCap": 199162.97654720533,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ISRG.png",
+      "website": "https://www.intuitive.com/en-us/about-us/company"
+    },
+    {
+      "symbol": "LMT",
+      "name": "Lockheed Martin Corp",
+      "sector": "Aerospace & Defense",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Aerospace & Defense",
+      "marketCap": 129189.38757027156,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/LMT.png",
+      "website": "https://www.lockheedmartin.com/"
+    },
+    {
+      "symbol": "BLK",
+      "name": "BlackRock Inc",
+      "sector": "Financial Services",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Financial Services",
+      "marketCap": 177746.38313168832,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/950002356066.png",
+      "website": "https://www.blackrock.com/"
+    },
+    {
+      "symbol": "GILD",
+      "name": "Gilead Sciences Inc",
+      "sector": "Biotechnology",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Biotechnology",
+      "marketCap": 151065.14200700686,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/GILD.png",
+      "website": "https://www.gilead.com/"
+    },
+    {
+      "symbol": "SYK",
+      "name": "Stryker Corp",
+      "sector": "Health Care",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Health Care",
+      "marketCap": 136073.97953182628,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/SYK.png",
+      "website": "https://www.stryker.com/"
+    },
+    {
+      "symbol": "ADI",
+      "name": "Analog Devices Inc",
+      "sector": "Semiconductors",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Semiconductors",
+      "marketCap": 145040.42877028417,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ADI.png",
+      "website": "https://www.analog.com/"
+    },
+    {
+      "symbol": "MMC",
+      "name": "Marsh & McLennan Companies Inc",
+      "sector": "Insurance",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Insurance",
+      "marketCap": 89506.50426767979,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MMC.png",
+      "website": "https://www.marshmclennan.com/"
+    },
+    {
+      "symbol": "TJX",
+      "name": "TJX Companies Inc",
+      "sector": "Retail",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Retail",
+      "marketCap": 175609.283993481,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/TJX.png",
+      "website": "https://www.tjx.com/"
+    },
+    {
+      "symbol": "VRTX",
+      "name": "Vertex Pharmaceuticals Inc",
+      "sector": "Biotechnology",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Biotechnology",
+      "marketCap": 115358.33783427687,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/VRTX.png",
+      "website": "https://www.vrtx.com/"
+    },
+    {
+      "symbol": "CVS",
+      "name": "CVS Health Corp",
+      "sector": "Health Care",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Health Care",
+      "marketCap": 102417.81448352116,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CVS.png",
+      "website": "https://cvshealth.com/"
+    },
+    {
+      "symbol": "REGN",
+      "name": "Regeneron Pharmaceuticals Inc",
+      "sector": "Biotechnology",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Biotechnology",
+      "marketCap": 79761.03431119843,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/REGN.png",
+      "website": "https://www.regeneron.com/"
+    },
+    {
+      "symbol": "PGR",
+      "name": "Progressive Corp",
+      "sector": "Insurance",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Insurance",
+      "marketCap": 120246.62579258227,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/PGR.png",
+      "website": "https://www.progressive.com/"
+    },
+    {
+      "symbol": "ADP",
+      "name": "Automatic Data Processing Inc",
+      "sector": "Professional Services",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Professional Services",
+      "marketCap": 103971.63815719748,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ADP.png",
+      "website": "https://www.adp.com/"
+    },
+    {
+      "symbol": "SBUX",
+      "name": "Starbucks Corp",
+      "sector": "Hotels, Restaurants & Leisure",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Hotels, Restaurants & Leisure",
+      "marketCap": 102975.77274141042,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/SBUX.png",
+      "website": "https://www.starbucks.com/"
+    },
+    {
+      "symbol": "ZTS",
+      "name": "Zoetis Inc",
+      "sector": "Pharmaceuticals",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Pharmaceuticals",
+      "marketCap": 56897.89778056041,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ZTS.png",
+      "website": "https://www.zoetis.com/"
+    },
+    {
+      "symbol": "NOW",
+      "name": "ServiceNow Inc",
+      "sector": "Technology",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Technology",
+      "marketCap": 143495.2167233197,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/NOW.png",
+      "website": "https://www.servicenow.com/"
+    },
+    {
+      "symbol": "MMM",
+      "name": "3M Co",
+      "sector": "Industrial Conglomerates",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Industrial Conglomerates",
+      "marketCap": 90000.14701262796,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MMM.png",
+      "website": "https://www.3m.com/"
+    },
+    {
+      "symbol": "CI",
+      "name": "Cigna Group",
+      "sector": "Health Care",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Health Care",
+      "marketCap": 72607.46732482497,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CI.png",
+      "website": "https://www.thecignagroup.com/"
+    },
+    {
+      "symbol": "C",
+      "name": "Citigroup Inc",
+      "sector": "Banking",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Banking",
+      "marketCap": 208091.64357935343,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/C.png",
+      "website": "http://www.citigroup.com/"
+    },
+    {
+      "symbol": "SCHW",
+      "name": "Charles Schwab Corp",
+      "sector": "Financial Services",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Financial Services",
+      "marketCap": 179790.46483618292,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/SCHW.png",
+      "website": "https://www.schwab.com/"
+    },
+    {
+      "symbol": "SO",
+      "name": "Southern Co",
+      "sector": "Utilities",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Utilities",
+      "marketCap": 96401.72797833467,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/SO.png",
+      "website": "https://www.southerncompany.com/"
+    },
+    {
+      "symbol": "DUK",
+      "name": "Duke Energy Corp",
+      "sector": "Utilities",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Utilities",
+      "marketCap": 91289.65399416976,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/DUK.png",
+      "website": "https://www.duke-energy.com/"
+    },
+    {
+      "symbol": "LRCX",
+      "name": "Lam Research Corp",
+      "sector": "Semiconductors",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Semiconductors",
+      "marketCap": 269267.71022402256,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/LRCX.png",
+      "website": "https://www.lamresearch.com/"
+    },
+    {
+      "symbol": "EQIX",
+      "name": "Equinix Inc",
+      "sector": "Real Estate",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Real Estate",
+      "marketCap": 76964.139962,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/942959004916.png",
+      "website": "https://www.equinix.com/"
+    },
+    {
+      "symbol": "KLAC",
+      "name": "KLA Corp",
+      "sector": "Semiconductors",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Semiconductors",
+      "marketCap": 189444.12281535898,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/KLAC.png",
+      "website": "https://www.kla.com/"
+    },
+    {
+      "symbol": "FI",
+      "name": "Fiserv Inc.",
+      "sector": "Financials"
+    },
+    {
+      "symbol": "MO",
+      "name": "Altria Group Inc",
+      "sector": "Tobacco",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Tobacco",
+      "marketCap": 100972.09283240775,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MO.png",
+      "website": "https://www.altria.com/"
+    },
+    {
+      "symbol": "ICE",
+      "name": "Intercontinental Exchange Inc",
+      "sector": "Financial Services",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Financial Services",
+      "marketCap": 95043.0689781011,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/ICE.png",
+      "website": "https://www.ice.com/"
+    },
+    {
+      "symbol": "CME",
+      "name": "CME Group Inc",
+      "sector": "Financial Services",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Financial Services",
+      "marketCap": 96803.01687935955,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CME.png",
+      "website": "https://www.cmegroup.com/"
+    },
+    {
+      "symbol": "SHW",
+      "name": "Sherwin-Williams Co",
+      "sector": "Chemicals",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Chemicals",
+      "marketCap": 88247.61144183649,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/SHW.png",
+      "website": "https://www.sherwin-williams.com/"
+    },
+    {
+      "symbol": "CL",
+      "name": "Colgate-Palmolive Co",
+      "sector": "Consumer products",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Consumer products",
+      "marketCap": 66871.14778773586,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CL.png",
+      "website": "https://www.colgatepalmolive.com/"
+    },
+    {
+      "symbol": "EOG",
+      "name": "EOG Resources Inc",
+      "sector": "Energy",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Energy",
+      "marketCap": 58622.33786390821,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/EOG.png",
+      "website": "https://www.eogresources.com/"
+    },
+    {
+      "symbol": "BSX",
+      "name": "Boston Scientific Corp",
+      "sector": "Health Care",
+      "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+      "industry": "Health Care",
+      "marketCap": 139557.09322289447,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/BSX.png",
+      "website": "https://www.bostonscientific.com/en-US/Home.html"
+    },
+    {
+      "symbol": "SNPS",
+      "name": "Synopsys Inc",
+      "sector": "Technology",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Technology",
+      "marketCap": 97916.65509677367,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/SNPS.png",
+      "website": "https://www.synopsys.com/"
+    },
+    {
+      "symbol": "CDNS",
+      "name": "Cadence Design Systems Inc",
+      "sector": "Technology",
+      "exchange": "NASDAQ NMS - GLOBAL MARKET",
+      "industry": "Technology",
+      "marketCap": 87937.25407050409,
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CDNS.png",
+      "website": "https://www.cadence.com/en_US/home.html"
+    }
+  ],
+  "count": 100,
+  "generatedAt": "2026-01-14T02:40:44.703Z",
+  "source": "finnhub"
+}

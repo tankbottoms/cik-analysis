@@ -1,0 +1,64 @@
+{
+  "quote": {
+    "price": 259.69,
+    "change": 5.96,
+    "changePercent": 2.349,
+    "high": 266.96,
+    "low": 256.25,
+    "open": 261.19,
+    "previousClose": 253.73
+  },
+  "earnings": [
+    {
+      "actual": 1.2,
+      "estimate": 1.175,
+      "period": "2025-09-30",
+      "quarter": 3,
+      "surprise": 0.025,
+      "surprisePercent": 2.1277,
+      "symbol": "AMD",
+      "year": 2025
+    },
+    {
+      "actual": 0.48,
+      "estimate": 0.4961,
+      "period": "2025-06-30",
+      "quarter": 2,
+      "surprise": -0.0161,
+      "surprisePercent": -3.2453,
+      "symbol": "AMD",
+      "year": 2025
+    },
+    {
+      "actual": 0.96,
+      "estimate": 0.9523,
+      "period": "2025-03-31",
+      "quarter": 1,
+      "surprise": 0.0077,
+      "surprisePercent": 0.8086,
+      "symbol": "AMD",
+      "year": 2025
+    },
+    {
+      "actual": 1.09,
+      "estimate": 1.0885,
+      "period": "2024-12-31",
+      "quarter": 4,
+      "surprise": 0.0015,
+      "surprisePercent": 0.1378,
+      "symbol": "AMD",
+      "year": 2024
+    }
+  ],
+  "recommendations": {
+    "buy": 29,
+    "hold": 13,
+    "period": "2026-01-01",
+    "sell": 0,
+    "strongBuy": 15,
+    "strongSell": 1,
+    "symbol": "AMD"
+  },
+  "source": "finnhub",
+  "generatedAt": "2026-01-25T17:19:49.041Z"
+}

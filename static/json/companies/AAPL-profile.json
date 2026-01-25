@@ -1,0 +1,12 @@
+{
+  "symbol": "AAPL",
+  "name": "Apple Inc",
+  "sector": "Technology",
+  "exchange": "NASDAQ NMS - GLOBAL MARKET",
+  "industry": "Technology",
+  "marketCap": 3645673.46568324,
+  "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AAPL.png",
+  "website": "https://www.apple.com/",
+  "generatedAt": "2026-01-25T16:53:56.696Z",
+  "source": "finnhub"
+}

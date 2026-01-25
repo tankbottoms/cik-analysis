@@ -1,0 +1,198 @@
+{
+  "tickers": [
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc",
+      "price": 248.05,
+      "change": -0.3,
+      "changePercent": -0.1208,
+      "sector": "Technology"
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corp",
+      "price": 465.96,
+      "change": 14.82,
+      "changePercent": 3.285,
+      "sector": "Technology"
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc",
+      "price": 327.94,
+      "change": -2.6,
+      "changePercent": -0.7866,
+      "sector": "Media"
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com Inc",
+      "price": 239.17,
+      "change": 4.83,
+      "changePercent": 2.0611,
+      "sector": "Retail"
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corp",
+      "price": 187.68,
+      "change": 2.84,
+      "changePercent": 1.5365,
+      "sector": "Semiconductors"
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc",
+      "price": 658.77,
+      "change": 11.14,
+      "changePercent": 1.7201,
+      "sector": "Media"
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla Inc",
+      "price": 449.07,
+      "change": -0.29,
+      "changePercent": -0.0645,
+      "sector": "Automobiles"
+    },
+    {
+      "symbol": "UNH",
+      "name": "UnitedHealth Group Inc",
+      "price": 356.27,
+      "change": 1.8,
+      "changePercent": 0.5078,
+      "sector": "Health Care"
+    },
+    {
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "price": 220.15,
+      "change": 1.66,
+      "changePercent": 0.7598,
+      "sector": "Pharmaceuticals"
+    },
+    {
+      "symbol": "V",
+      "name": "Visa Inc",
+      "price": 326.19,
+      "change": -0.17,
+      "changePercent": -0.0521,
+      "sector": "Financial Services"
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co",
+      "price": 297.73,
+      "change": -5.9,
+      "changePercent": -1.9432,
+      "sector": "Banking"
+    },
+    {
+      "symbol": "MA",
+      "name": "Mastercard Inc",
+      "price": 524.75,
+      "change": -8.11,
+      "changePercent": -1.522,
+      "sector": "Financial Services"
+    },
+    {
+      "symbol": "PG",
+      "name": "Procter & Gamble Co",
+      "price": 150.16,
+      "change": 0.23,
+      "changePercent": 0.1534,
+      "sector": "Consumer products"
+    },
+    {
+      "symbol": "HD",
+      "name": "Home Depot Inc",
+      "price": 383.78,
+      "change": 2.75,
+      "changePercent": 0.7217,
+      "sector": "Retail"
+    },
+    {
+      "symbol": "COST",
+      "name": "Costco Wholesale Corp",
+      "price": 983.26,
+      "change": 7.09,
+      "changePercent": 0.7263,
+      "sector": "Retail"
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 320.06,
+      "change": -5.43,
+      "changePercent": -1.6683,
+      "sector": "Semiconductors"
+    },
+    {
+      "symbol": "ADBE",
+      "name": "Adobe Inc",
+      "price": 301.08,
+      "change": 1.35,
+      "changePercent": 0.4504,
+      "sector": "Technology"
+    },
+    {
+      "symbol": "CRM",
+      "name": "Salesforce Inc",
+      "price": 228.06,
+      "change": -0.03,
+      "changePercent": -0.0132,
+      "sector": "Technology"
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices Inc",
+      "price": 259.69,
+      "change": 5.96,
+      "changePercent": 2.349,
+      "sector": "Semiconductors"
+    },
+    {
+      "symbol": "NFLX",
+      "name": "Netflix Inc",
+      "price": 86.13,
+      "change": 2.59,
+      "changePercent": 3.1003,
+      "sector": "Media"
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel Corp",
+      "price": 45.08,
+      "change": -9.24,
+      "changePercent": -17.0103,
+      "sector": "Semiconductors"
+    },
+    {
+      "symbol": "DIS",
+      "name": "Walt Disney Co",
+      "price": 110.99,
+      "change": -2.22,
+      "changePercent": -1.961,
+      "sector": "Media"
+    },
+    {
+      "symbol": "PFE",
+      "name": "Pfizer Inc",
+      "price": 25.66,
+      "change": -0.44,
+      "changePercent": -1.6858,
+      "sector": "Pharmaceuticals"
+    },
+    {
+      "symbol": "ORCL",
+      "name": "Oracle Corp",
+      "price": 177.17,
+      "change": -1.01,
+      "changePercent": -0.5668,
+      "sector": "Technology"
+    }
+  ],
+  "generatedAt": "2026-01-25T17:21:12.899Z",
+  "count": 24
+}

@@ -1,0 +1,64 @@
+{
+  "quote": {
+    "price": 465.96,
+    "change": 14.82,
+    "changePercent": 3.285,
+    "high": 471.1,
+    "low": 450.53,
+    "open": 451.88,
+    "previousClose": 451.14
+  },
+  "earnings": [
+    {
+      "actual": 4.13,
+      "estimate": 3.7391,
+      "period": "2025-09-30",
+      "quarter": 1,
+      "surprise": 0.3909,
+      "surprisePercent": 10.4544,
+      "symbol": "MSFT",
+      "year": 2026
+    },
+    {
+      "actual": 3.65,
+      "estimate": 3.4368,
+      "period": "2025-06-30",
+      "quarter": 4,
+      "surprise": 0.2132,
+      "surprisePercent": 6.2034,
+      "symbol": "MSFT",
+      "year": 2025
+    },
+    {
+      "actual": 3.46,
+      "estimate": 3.2846,
+      "period": "2025-03-31",
+      "quarter": 3,
+      "surprise": 0.1754,
+      "surprisePercent": 5.3401,
+      "symbol": "MSFT",
+      "year": 2025
+    },
+    {
+      "actual": 3.23,
+      "estimate": 3.1733,
+      "period": "2024-12-31",
+      "quarter": 2,
+      "surprise": 0.0567,
+      "surprisePercent": 1.7868,
+      "symbol": "MSFT",
+      "year": 2025
+    }
+  ],
+  "recommendations": {
+    "buy": 37,
+    "hold": 5,
+    "period": "2026-01-01",
+    "sell": 0,
+    "strongBuy": 25,
+    "strongSell": 0,
+    "symbol": "MSFT"
+  },
+  "source": "finnhub",
+  "generatedAt": "2026-01-25T17:18:45.724Z"
+}

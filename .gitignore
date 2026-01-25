@@ -54,6 +54,7 @@ desktop.ini
 test-results/
 playwright-report/
 coverage/
+.playwright-mcp/
 
 # TypeScript
 *.tsbuildinfo

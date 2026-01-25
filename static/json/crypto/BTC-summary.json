@@ -1,0 +1,22 @@
+{
+  "symbol": "BTC/USD",
+  "name": "Bitcoin",
+  "ticker": "BTC",
+  "stats": {
+    "high": 126296,
+    "low": 15599.046875,
+    "avgPrice": 55213.07328472559,
+    "totalVolume": 0,
+    "tradingDays": 1825,
+    "startPrice": 30432.54688,
+    "endPrice": 87964.46,
+    "priceChange": 57531.913120000005,
+    "priceChangePercent": 189.04731617388705
+  },
+  "period": {
+    "start": "2021-01-27",
+    "end": "2026-01-25"
+  },
+  "source": "twelvedata",
+  "generatedAt": "2026-01-25T16:59:31.775Z"
+}
