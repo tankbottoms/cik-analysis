@@ -23,11 +23,11 @@
       "periods": [
         {
           "ticker": "GLXZ",
-          "start": "2009-08-04",
-          "end": "2026-01-09T14:30:00.000Z",
-          "tradingDays": 4159,
+          "start": "2010-11-15T14:30:00.000Z",
+          "end": "2026-01-23T14:30:00.000Z",
+          "tradingDays": 3820,
           "peakPrice": 5.25,
-          "totalVolume": 128292172
+          "totalVolume": 103590200
         }
       ],
       "hasData": true
@@ -138,10 +138,10 @@
       "hasData": false
     }
   ],
-  "totalRecords": 4884,
+  "totalRecords": 4545,
   "dateRange": {
     "earliest": "2008-01-02",
-    "latest": "2026-01-09T14:30:00.000Z"
+    "latest": "2026-01-23T14:30:00.000Z"
   },
-  "generatedAt": "2026-01-11T00:09:45.841Z"
+  "generatedAt": "2026-01-25T17:11:01.770Z"
 }

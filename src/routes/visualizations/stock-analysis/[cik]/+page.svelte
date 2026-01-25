@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { browser } from '$app/environment';
 	import type { PageData } from './$types';
+	import { educationTerms, getEducationLink } from '$lib/education';
 
 	let { data } = $props();
 
@@ -436,11 +437,25 @@
 	<h1>{data.stockData.ticker} - {data.stockData.company}</h1>
 
 	<div class="flex-row" style="margin-bottom: 1rem;">
-		<span class="badge badge-blue">{data.stockData.cik}</span>
-		<span class="badge badge-green">{data.stockData.exchange}</span>
+		<a href={getEducationLink('cik')} class="edu-badge-link" title={educationTerms['cik'].short}>
+			<span class="badge badge-blue">{data.stockData.cik}</span>
+		</a>
+		<a href={getEducationLink('exchange')} class="edu-badge-link" title={educationTerms['exchange'].short}>
+			<span class="badge badge-green">{data.stockData.exchange}</span>
+		</a>
 		<span class="text-muted" style="font-size: 0.75rem;">
 			{data.stockData.period.start} to {data.stockData.period.end}
 		</span>
+	</div>
+
+	<div class="edu-intro">
+		<p>
+			<i class="fat fa-graduation-cap"></i>
+			<strong>Understanding Stock Data:</strong>
+			This page displays historical trading data and SEC filings for this entity. Key metrics include price ranges, trading volume, and filing history.
+			<a href="/education#valuation">Learn about valuation</a> |
+			<a href="/education#financial-analysis">Understanding financial statements</a>
+		</p>
 	</div>
 
 	<section>
@@ -451,7 +466,12 @@
 				<div class="stat-number" style="color: var(--color-accent-green);">
 					${data.stockData.metrics.peakPrice.toFixed(4)}
 				</div>
-				<div class="stat-label">Peak Price</div>
+				<div class="stat-label">
+					Peak Price
+					<a href={getEducationLink('peak-price')} class="edu-tooltip" title={educationTerms['peak-price'].short}>
+						<i class="fat fa-circle-info"></i>
+					</a>
+				</div>
 				<div class="text-muted" style="font-size: 0.65rem; margin-top: 0.25rem;">
 					{data.stockData.metrics.peakDate}
 				</div>
@@ -461,7 +481,12 @@
 				<div class="stat-number" style="color: var(--color-accent-red);">
 					${data.stockData.metrics.lowPrice.toFixed(4)}
 				</div>
-				<div class="stat-label">Low Price</div>
+				<div class="stat-label">
+					Low Price
+					<a href={getEducationLink('low-price')} class="edu-tooltip" title={educationTerms['low-price'].short}>
+						<i class="fat fa-circle-info"></i>
+					</a>
+				</div>
 				<div class="text-muted" style="font-size: 0.65rem; margin-top: 0.25rem;">
 					{data.stockData.metrics.lowDate}
 				</div>
@@ -469,17 +494,32 @@
 
 			<div class="section-box stats-card">
 				<div class="stat-number">{data.stockData.metrics.tradingDays}</div>
-				<div class="stat-label">Trading Days</div>
+				<div class="stat-label">
+					Trading Days
+					<a href={getEducationLink('trading-days')} class="edu-tooltip" title={educationTerms['trading-days'].short}>
+						<i class="fat fa-circle-info"></i>
+					</a>
+				</div>
 			</div>
 
 			<div class="section-box stats-card">
 				<div class="stat-number">{formatNumber(data.stockData.metrics.totalVolume)}</div>
-				<div class="stat-label">Total Volume</div>
+				<div class="stat-label">
+					Total Volume
+					<a href={getEducationLink('volume')} class="edu-tooltip" title={educationTerms['volume'].short}>
+						<i class="fat fa-circle-info"></i>
+					</a>
+				</div>
 			</div>
 
 			<div class="section-box stats-card">
 				<div class="stat-number">${formatNumber(data.stockData.metrics.totalDollarVolume)}</div>
-				<div class="stat-label">Dollar Volume</div>
+				<div class="stat-label">
+					Dollar Volume
+					<a href={getEducationLink('dollar-volume')} class="edu-tooltip" title={educationTerms['dollar-volume'].short}>
+						<i class="fat fa-circle-info"></i>
+					</a>
+				</div>
 			</div>
 
 			<div class="section-box stats-card">
@@ -493,7 +533,12 @@
 						1
 					)}%
 				</div>
-				<div class="stat-label">Price Change</div>
+				<div class="stat-label">
+					Price Change
+					<a href={getEducationLink('price-change')} class="edu-tooltip" title={educationTerms['price-change'].short}>
+						<i class="fat fa-circle-info"></i>
+					</a>
+				</div>
 			</div>
 		</div>
 	</section>
@@ -583,7 +628,19 @@
 
 	{#if data.filings && data.filings.length > 0}
 		<section class="mt-3">
-			<h2><i class="fat fa-file-lines"></i> SEC Filings ({data.filings.length})</h2>
+			<h2>
+				<i class="fat fa-file-lines"></i> SEC Filings ({data.filings.length})
+				<a href={getEducationLink('sec-filing')} class="edu-tooltip" title={educationTerms['sec-filing'].short}>
+					<i class="fat fa-circle-info"></i>
+				</a>
+			</h2>
+			<p class="text-muted" style="font-size: 0.8rem; margin-bottom: 1rem;">
+				SEC filings provide official disclosure documents. Click any form badge to learn more:
+				<a href="/education#financial-analysis" class="edu-badge-link"><span class="badge badge-sec-annual">10-K</span></a>
+				<a href="/education#financial-analysis" class="edu-badge-link"><span class="badge badge-sec-quarterly">10-Q</span></a>
+				<a href="/education#financial-analysis" class="edu-badge-link"><span class="badge badge-sec-current">8-K</span></a>
+				<a href="/education#shareholder-returns" class="edu-badge-link"><span class="badge badge-sec-insider">Form 4</span></a>
+			</p>
 			<div class="section-box" style="max-height: 400px; overflow-y: auto;">
 				<table>
 					<thead>
@@ -724,5 +781,45 @@
 		min-height: 300px;
 		color: var(--color-text-muted);
 		font-family: var(--font-mono);
+	}
+
+	/* Educational tooltip links */
+	.edu-tooltip {
+		color: var(--color-text-muted);
+		text-decoration: none;
+		margin-left: 0.35rem;
+		font-size: 0.8em;
+		transition: color 0.15s ease;
+	}
+
+	.edu-tooltip:hover {
+		color: var(--color-link);
+	}
+
+	.edu-intro {
+		background: var(--color-bg-secondary);
+		border: 1px solid var(--color-border);
+		border-left: 4px solid var(--color-accent-blue);
+		padding: 1rem 1.25rem;
+		margin-bottom: 1.5rem;
+		font-size: 0.875rem;
+		line-height: 1.6;
+	}
+
+	.edu-intro p {
+		margin: 0 0 0.5rem 0;
+	}
+
+	.edu-intro p:last-child {
+		margin-bottom: 0;
+	}
+
+	.edu-badge-link {
+		text-decoration: none;
+	}
+
+	.edu-badge-link:hover .badge {
+		transform: translateY(-1px);
+		box-shadow: 1px 1px 0px var(--color-shadow);
 	}
 </style>

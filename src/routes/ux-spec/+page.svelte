@@ -261,8 +261,8 @@
 	{#if expandedSections.badges}
 	<div class="accordion-content">
 
-	<div class="callout callout-info">
-		<p><strong>Shape Rules:</strong> Category badges use <code>border-radius: 9999px</code>. Document type badges use <code>border-radius: 3px</code>.</p>
+	<div class="callout callout-warning">
+		<p><strong>CRITICAL: NO PILL BADGES.</strong> Under no circumstances use <code>border-radius: 9999px</code>. ALL badges use rectangular pastel colors with <code>border-radius: 3px</code> only. This applies to category badges, document type badges, status badges, and all other badge variants.</p>
 	</div>
 
 	<div class="section-box">
@@ -747,6 +747,8 @@
 	.accordion-header h2 {
 		margin: 0;
 		font-size: 1.25rem;
+		border-left: none;
+		padding-left: 0;
 	}
 
 	.accordion-toggle {

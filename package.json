@@ -19,7 +19,11 @@
 		"data:consolidate": "bun run scripts/02-consolidate-local.ts",
 		"data:normalize": "bun run scripts/03-normalize-data.ts",
 		"data:generate": "bun run scripts/04-generate-json.ts",
-		"data:pipeline": "bun run data:fetch && bun run data:consolidate && bun run data:normalize && bun run data:generate"
+		"data:pipeline": "bun run data:fetch && bun run data:consolidate && bun run data:normalize && bun run data:generate",
+		"prefetch:sp500": "bun run scripts/prefetch-sp500.ts",
+		"prefetch:top25": "bun run scripts/prefetch-top25.ts",
+		"prefetch:crypto": "bun run scripts/prefetch-crypto.ts",
+		"prefetch:all": "bun run prefetch:sp500 && bun run prefetch:crypto"
 	},
 	"devDependencies": {
 		"@playwright/test": "^1.49.0",

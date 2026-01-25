@@ -321,6 +321,30 @@ a:active {
 	color: var(--color-text-muted);
 }
 
+.badge-purple {
+	background-color: rgba(123, 31, 162, 0.12);
+	border-color: #7b1fa2;
+	color: #7b1fa2;
+}
+
+.badge-cyan {
+	background-color: rgba(23, 162, 184, 0.12);
+	border-color: #17a2b8;
+	color: #0c5460;
+}
+
+.badge-teal {
+	background-color: rgba(32, 201, 151, 0.12);
+	border-color: #20c997;
+	color: #20c997;
+}
+
+.badge-gray {
+	background-color: rgba(108, 117, 125, 0.12);
+	border-color: #6c757d;
+	color: #6c757d;
+}
+
 .status-badge {
 	position: absolute;
 	top: 1rem;

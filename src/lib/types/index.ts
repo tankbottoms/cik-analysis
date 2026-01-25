@@ -2,6 +2,11 @@
  * Shared TypeScript types for the application
  */
 
+// Re-export market and portfolio types
+export * from './market';
+export * from './portfolio';
+
+// Legacy types (for existing SEC forensic analysis pages)
 export interface DailyOHLCV {
 	date: string;
 	open: number;

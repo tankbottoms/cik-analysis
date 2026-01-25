@@ -8,9 +8,9 @@ const config = {
 		adapter: adapter({
 			pages: 'build',
 			assets: 'build',
-			fallback: undefined,
+			fallback: 'index.html',
 			precompress: false,
-			strict: true
+			strict: false
 		}),
 		prerender: {
 			entries: ['*'],
@@ -19,7 +19,10 @@ const config = {
 				if (
 					path.startsWith('/favicon') ||
 					path.startsWith('/fontawesome') ||
-					path.includes('-filings.json')
+					path.includes('-filings.json') ||
+					path.includes('-history-5y.json') ||
+					path.includes('-metrics.json') ||
+					path.includes('-profile.json')
 				) {
 					console.warn(`Ignoring missing asset: ${path}`);
 					return;
