@@ -1,8 +1,53 @@
 # Stock Analysis Platform - Task Tracking
 
+**Live Site:** https://historical-stock-data.vercel.app (Beta)
+
 ## Overview
 
 This document tracks implementation progress for the Stock Analysis Platform enhancement project. Tasks are organized by phase and priority.
+
+---
+
+## Project Vision & Goals
+
+### Core Concept
+
+Build a deep-insight investment research platform that goes far beyond traditional stock data. The goal is to merge multiple public data sources to surface critical information about companies - especially small penny stocks where such intelligence is the difference between flushing money and making an informed investment decision.
+
+### Data Integration Strategy
+
+| Data Source | Purpose | Status |
+|-------------|---------|--------|
+| Stock Trading Data | Price, volume, market share, historical performance | In Progress |
+| CIK EDGAR History | Full SEC filing history for entities | Planned |
+| Corporate Officers | Individuals involved in the entity | Planned |
+| Legal/Attorney Info | Online bar association, licensing data | Planned |
+| Litigation Records | PACER, court filings, lawsuit patterns | Planned |
+
+### Key Integrations
+
+- **[edgar-cik-cli](https://github.com/tankbottoms/edgar-cik-cli)** - Pull complete CIK EDGAR filing history for any SEC-registered entity
+- **Reference Implementation:** [tele-lawyer.pantsonfire.xyz](https://tele-lawyer.pantsonfire.xyz) - Example of surfacing public information from CIK EDGAR, PACER, and bar associations
+- **Litigation Patterns:** [tele-lawyer.pantsonfire.xyz/data/litigation](https://tele-lawyer.pantsonfire.xyz/data/litigation) - Corporate litigation pattern analysis
+
+### Implementation Goals
+
+- [ ] **Entity Score System** - Distill multiple data points into a single entity score for quick assessment
+- [ ] **EDGAR Integration** - Ingest and index complete CIK filing history per company
+- [ ] **Officer Mapping** - Track individuals across entities, their roles, and history
+- [ ] **Litigation Timeline** - Map legal actions against companies and key personnel
+- [ ] **Cross-Reference Engine** - Connect officers to other entities they're involved with
+- [ ] **Pattern Detection** - Identify red flags from filing patterns, officer changes, litigation frequency
+- [ ] **Narrow Information Surface** - Present distilled insights without overwhelming users
+- [ ] **Trading System Foundation** - Use accumulated intelligence to inform an eventual automated trading system
+
+### Design Philosophy
+
+1. **Data Ingestion First** - Build robust pipelines to pull and index public data
+2. **Narrow Surface** - Avoid information overload; present only the most actionable insights
+3. **Entity Scoring** - Reduce complexity to digestible scores and risk indicators
+4. **Penny Stock Focus** - Target small companies where due diligence is critical and information is scarce
+5. **Progressive Disclosure** - Allow users to drill into details when needed
 
 ---
 

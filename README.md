@@ -1,6 +1,21 @@
 # Historical Stock Data Analysis
 
-A SvelteKit 2 application for stock analysis with portfolio tracking, interactive D3 visualizations, and SEC forensic analysis tools.
+**Live Site:** https://historical-stock-data.vercel.app (Beta - Not Production Ready)
+
+A SvelteKit 2 application for deep-insight investment research, combining stock analysis with SEC forensic data, corporate officer tracking, and litigation intelligence.
+
+## Vision
+
+This platform aims to go beyond traditional stock data by merging multiple public data sources:
+
+- **Stock Trading Data** - Price, volume, market share, historical performance
+- **CIK EDGAR History** - Complete SEC filing history via [edgar-cik-cli](https://github.com/tankbottoms/edgar-cik-cli)
+- **Corporate Officers** - Track individuals across entities and their roles
+- **Litigation Records** - PACER filings, lawsuit patterns, legal actions
+
+The goal is to surface critical intelligence for small penny stocks where due diligence is the difference between flushing money and making an informed investment. The system will distill complex data into an **Entity Score** for quick assessment, with the ability to drill into details.
+
+**Reference:** [tele-lawyer.pantsonfire.xyz](https://tele-lawyer.pantsonfire.xyz) demonstrates surfacing public information from CIK EDGAR, PACER, and bar associations. See [litigation patterns](https://tele-lawyer.pantsonfire.xyz/data/litigation) for corporate litigation analysis.
 
 ## Features
 
@@ -10,6 +25,14 @@ A SvelteKit 2 application for stock analysis with portfolio tracking, interactiv
 - **SEC Analysis**: Forensic analysis of historical trading data for SEC entities
 - **Education System**: Investment term definitions with tooltips and deep linking
 - **S&P 500 Search**: Autocomplete search across S&P 500 stocks
+
+---
+
+<p align="center">
+<img width="600" height="880" src="./static/imgs/screenshot.png" alt="App Screenshot">
+</p>
+
+---
 
 ## Tech Stack
 
