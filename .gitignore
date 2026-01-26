@@ -49,6 +49,7 @@ desktop.ini
 # Claude Code
 .claude/
 .github-commit-messages
+CLAUDE.md
 
 # Test artifacts
 test-results/
