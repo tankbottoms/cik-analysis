@@ -18,17 +18,17 @@ Build a deep-insight investment research platform that goes far beyond tradition
 
 | Data Source | Purpose | Status |
 |-------------|---------|--------|
-| Stock Trading Data | Price, volume, market share, historical performance | In Progress |
+| Stock Trading Data | Price, volume, market share, historical performance | Complete |
+| Crypto Data | BTC/ETH historical OHLCV, real-time pricing | Complete |
 | CIK EDGAR History | Full SEC filing history for entities | Planned |
 | Corporate Officers | Individuals involved in the entity | Planned |
+| Crypto Sentiment | Polymarket prediction markets, social feeds | Planned |
 | Legal/Attorney Info | Online bar association, licensing data | Planned |
 | Litigation Records | PACER, court filings, lawsuit patterns | Planned |
 
 ### Key Integrations
 
 - **[edgar-cik-cli](https://github.com/tankbottoms/edgar-cik-cli)** - Pull complete CIK EDGAR filing history for any SEC-registered entity
-- **Reference Implementation:** [tele-lawyer.pantsonfire.xyz](https://tele-lawyer.pantsonfire.xyz) - Example of surfacing public information from CIK EDGAR, PACER, and bar associations
-- **Litigation Patterns:** [tele-lawyer.pantsonfire.xyz/data/litigation](https://tele-lawyer.pantsonfire.xyz/data/litigation) - Corporate litigation pattern analysis
 
 ### Implementation Goals
 
@@ -257,6 +257,31 @@ Build a deep-insight investment research platform that goes far beyond tradition
 - [ ] Create `src/routes/research/+page.svelte`
 - [ ] Implement saved research notes
 - [ ] Implement export functionality
+
+---
+
+## Phase 8: Crypto & Prediction Market Feeds
+
+### Cryptocurrency Data Expansion
+
+- [ ] Add additional crypto assets beyond BTC/ETH (SOL, AVAX, LINK, etc.)
+- [ ] Implement crypto-specific detail pages with on-chain metrics
+- [ ] Add crypto market cap rankings and dominance charts
+- [ ] Integrate DeFi protocol data (TVL, yields) where available
+
+### Polymarket Integration
+
+- [ ] Integrate Polymarket prediction market data via public API
+- [ ] Display event contracts relevant to tracked companies/sectors
+- [ ] Show probability charts for market-moving events (elections, regulation, earnings)
+- [ ] Cross-reference prediction market sentiment with stock price movements
+
+### Crypto Social & Sentiment Feeds
+
+- [ ] Aggregate crypto sentiment from public APIs (Fear & Greed Index, funding rates)
+- [ ] Display trending tokens and volume anomalies
+- [ ] Track whale wallet activity for major holdings
+- [ ] Correlation analysis between prediction market outcomes and price action
 
 ---
 
